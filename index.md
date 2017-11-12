@@ -1,6 +1,8 @@
+<!---
 # GeZuWa - Gemeinsam zusammen wachsen
 
 Der Verein **GeZuWa** ist der Zusammenschluss von Menschen für ein liebenswertes Leben in [Lenzing](https://de.wikipedia.org/wiki/Lenzing).
+--->
 
 ## Wer wir sind
 
