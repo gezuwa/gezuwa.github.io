@@ -6,7 +6,7 @@ Der Verein **GeZuWa** ist der Zusammenschluss von Menschen für ein liebenswerte
 
 ## Wer wir sind
 
-Aktiv, unabhängig, freiwillig: So engagieren wir uns für die Gemeinschaft aller Lenzinger Bürger.
+Aktiv, unabhängig, freiwillig: So engagieren wir uns für die Gemeinschaft aller Lenzinger BürgerInnen.
 
 ## Mitmachen
 
