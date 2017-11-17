@@ -26,9 +26,13 @@ Hast du selbst etwas zu sagen? Schreib uns und mach dich bemerkbar!
 
 ## Impressum
 
-GeZuWa Verein in Gründung  
+**GeZuWa** Gemeinschaft: zusammen-wachsen  
+Verein für Dorfentwicklung Lenzing (in Gründung)  
+
 E-Mail: [hallo@gezuwa.at](mailto:hallo@gezuwa.at)  
 Web: [www.gezuwa.at](https://www.gezuwa.at/)   
+
+Max-Winter-Strasse 7  
 4860 Lenzing  
 Österreich
 
