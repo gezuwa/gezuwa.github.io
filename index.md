@@ -18,7 +18,7 @@ Wir treffen uns rund ein Mal im Monat an abwechselnden Orten in Lenzing. Ort und
 
 Als Vereinsmitglied gehörst du fix zu uns. Lade bitte die [Beitrittserklärung hier herunter](Beitrittserklaerung-GeZuWa_2017.pdf) und sende sie ausgefüllt an uns zurück. 
 
-Es genügt, wenn du die ausgefüllte Beitrittserklärung fotografierst oder scannst und an [hallo@gezuwa.at](mailto:hallo@gezuwa.at?subject=Beitritt) sendest. Per Briefpost kannst du uns das ausgefüllte Formalur natürlich auch schicken - die Adresse findest du im [Impressum](#impressum). 
+Es genügt, wenn du die ausgefüllte Beitrittserklärung fotografierst oder scannst und an [hallo@gezuwa.at](mailto:hallo@gezuwa.at?subject=Beitritt) sendest. Per Briefpost kannst du uns das ausgefüllte Formular natürlich auch schicken - die Adresse findest du im [Impressum](#impressum). 
 
 ## Aktuell<a name="aktuell"></a>
 
