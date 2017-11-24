@@ -35,13 +35,13 @@ Hast du selbst etwas zu sagen? Schreib uns und mach dich bemerkbar!
 **GeZuWa** Gemeinschaft: zusammen-wachsen  
 Verein für Dorfentwicklung Lenzing
 
-Max-Winter-Strasse 7  
+Max-Winter-Straße 7  
 4860 Lenzing  
 Österreich
 
 E-Mail: [hallo@gezuwa.at](mailto:hallo@gezuwa.at)  
 Web: [www.gezuwa.at](https://www.gezuwa.at/)   
 
-ZVR: 122821182087  
+ZVR: 1764273881 
 [Vereinsstatuten](Vereinsstatuten-GeZuWa_2017.pdf)
 
