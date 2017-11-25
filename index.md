@@ -42,6 +42,6 @@ Max-Winter-Straße 7
 E-Mail: [hallo@gezuwa.at](mailto:hallo@gezuwa.at)  
 Web: [www.gezuwa.at](https://www.gezuwa.at/)   
 
-ZVR: 1764273881 
+ZVR: 1764273881  
 [Vereinsstatuten](Vereinsstatuten-GeZuWa_2017.pdf)
 
