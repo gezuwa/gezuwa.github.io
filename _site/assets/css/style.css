@@ -318,3 +318,5 @@ a:hover { text-decoration: underline; }
 .site-footer-credits { color: #819198; }
 
 .page-header { background-image: url(/assets/images/agerinsel.jpg); background-position: center center; background-size: cover; }
+
+.project-tagline { opacity: 1; }
