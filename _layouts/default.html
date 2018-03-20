@@ -44,5 +44,92 @@
     ga('send', 'pageview');
 </script>
 {% endif %}
+
+<style>
+    .wet_cookie_consent {
+        background-color: black;
+        background-color: rgba(0,0,0, 0.8);
+        color: white;
+        box-shadow: 0 3px 15px #999;
+        position: fixed;
+        bottom: 0;
+        left: 0;
+        width: 100%;
+        text-align: center;
+        padding: 5px;
+        z-index: 10001;
+        font-size: 0.8em;
+    }
+    .wet_cookie_consent a  {
+        color: white;
+        text-decoration: underline;
+    }
+    .wet_cookie_consent a.wet_cookie_consent_dismiss  {
+        background: #48f;
+        border: 1px solid #eee;
+        color: white;
+        padding: 0 5px;
+        text-decoration: none;
+        margin-left: 5px;
+    }
+</style>
+<script>
+    if (window.addEventListener) {
+        var wet_cookie_consent = {
+            name: 'wet_cookie_consent',
+
+            get: function (name) {
+                var nameEQ = name + '=';
+                var ca = document.cookie.split(';');
+
+                for (var i = 0; i < ca.length; i++) {
+                    var c = ca[i];
+
+                    while (c.charAt(0) == ' ') {
+                        c = c.substring(1, c.length);
+                    }
+
+                    if (c.indexOf(nameEQ) == 0) {
+                        return c.substring(nameEQ.length, c.length);
+                    }
+                }
+
+                return null;
+            },
+
+            set: function (name, value, days) {
+                if (days) {
+                    var date = new Date();
+
+                    date.setTime(date.getTime() + (days * 24 * 60 * 60 * 1000));
+
+                    var expires = '; expires=' + date.toUTCString();
+                } else {
+                    var expires = '';
+                }
+
+                document.cookie = name + '=' + value + expires + '; path=/';
+            },
+
+            hide: function (elem) {
+                this.set(this.name, 1, 365);
+                elem.parentNode.removeChild(elem);
+            }
+        };
+
+        window.addEventListener('load',
+            function () {
+                if (!wet_cookie_consent.get(wet_cookie_consent.name)) {
+                    var toast = 'Wir verwenden Cookies, um Inhalte und Anzeigen zu personalisieren, Funktionen für soziale Medien anbieten zu können und die Zugriffe auf diese Website zu analysieren. Wir geben Informationen zu Ihrer Nutzung dieser Website an Partner für soziale Medien, Werbung und Analysen weiter. <a href="./legalese.html">Details ansehen</a>\n <a class="wet_cookie_consent_dismiss" href="javascript:void(0);" onclick="wet_cookie_consent.hide(this.parentNode);">Einverstanden</a>';
+                    var div = document.createElement('div');
+                    div.className = wet_cookie_consent.name;
+                    div.innerHTML = toast;
+                    document.body.appendChild(div);
+                }
+            }
+        );
+    }
+</script>
+
 </body>
 </html>

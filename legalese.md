@@ -1,6 +1,6 @@
 # Datenschutzerklärung
 
-[**GeZuWa**](/) nimmt den Schutz deiner persönlichen Daten sehr ernst und hält sich strikt an die Regeln der Datenschutzgesetze. Personenbezogene Daten werden auf dieser Website nur im technisch notwendigen Umfang erhoben. In keinem Fall werden die erhobenen Daten verkauft oder aus anderen Gründen an Dritte weitergegeben.
+Die Übermittlung deiner persönlichen Daten unterliegt deiner freien Entscheidung.  [**GeZuWa**](/) nimmt den Schutz deiner persönlichen Daten sehr ernst und hält sich strikt an die Regeln der Datenschutzgesetze. Personenbezogene Daten werden auf dieser Website nur im technisch notwendigen Umfang erhoben. In keinem Fall werden die erhobenen Daten verkauft oder aus anderen Gründen an Dritte weitergegeben.
 
 Die nachfolgende Erklärung gibt dir einen Überblick darüber, wie wir diesen Schutz gewährleisten und welche Art von Daten zu welchem Zweck erhoben werden.
 
