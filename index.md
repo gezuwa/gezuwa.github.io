@@ -37,7 +37,7 @@ Hast du selbst etwas zu sagen? Schreib uns und mach dich bemerkbar!
 **GeZuWa** Gemeinschaft: zusammen-wachsen  
 Verein für Dorfentwicklung Lenzing
 
-Max-Winter-Straße 7  
+Sommerfeldstraße 19/2  
 4860 Lenzing  
 Österreich
 
