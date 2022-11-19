@@ -8,7 +8,7 @@ Der Verein **GeZuWa** ist der Zusammenschluss von Menschen für ein liebenswerte
 
 Aktiv, unabhängig, freiwillig: So engagieren wir uns für die Gemeinschaft aller Lenzinger BürgerInnen.
 
-Mehr über unsere Gemeinschaft erfährt du in der [GeZuWa-Vorstellung](GeZuWa-Vorstellung.pdf). Unsere Mitglieder machen zum Beispiel [Kerzen für Hochzeiten, Taufen](https://www.alleskerzal.at/) oder Bestattungen oder schaffen professionell [Fotos von Konzerten, für Band-Promos](https://www.wet-photo.at/) oder [diskreten, intimen Fotos von Menschen in Boudoirs](https://www.boudoirwien.at/ "Silver, Light, and Skin - Images With A Soul. Humans; bare and real."). 
+Mehr über unsere Gemeinschaft erfährt du in der [GeZuWa-Vorstellung](GeZuWa-Vorstellung.pdf). Unsere Mitglieder machen zum Beispiel [Kerzen für Hochzeiten, Taufen](https://www.alleskerzal.at/) oder Bestattungen oder schaffen professionell [Fotos von Konzerten, für Band-Promos](https://www.wet-photo.at/) oder [diskrete, intime Fotos von Menschen in Boudoirs](https://www.boudoirwien.at/ "Silver, Light, and Skin - Images With A Soul. Humans; bare and real."). 
 
 ## Einfach so mitmachen...<a name="mitmachen"></a>
 
