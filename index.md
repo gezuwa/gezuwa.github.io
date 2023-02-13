@@ -22,7 +22,7 @@ GeZuWa, der Verein für Dorf- und Stadtentwicklung der Marktgemeinde Lenzing, sp
 
 GeZuWa initiiert und unterstützt Projekte, die zur Stärkung der Gemeinde beitragen, wie zum Beispiel die Renovierung öffentlicher Plätze, die Förderung von Kultur- und Freizeitangeboten sowie die [Entwicklung von Wirtschafts- und Bildungsprojekten](https://www.gsg-wohnen.at/de/unternehmen/aktuelles/eroeffnung-dienstleistungszentrum-lenzing/).
 
-Durch die enge Zusammenarbeit von GeZuWa mit der Gemeindeverwaltung und der Bevölkerung ist es möglich, schnell und effektiv auf die Bedürfnisse und Herausforderungen vor Ort zu reagieren. So trägt GeZuWa dazu bei, dass Lenzing auch in Zuk
+Durch die enge Zusammenarbeit von GeZuWa mit der Gemeindeverwaltung und der Bevölkerung ist es möglich, schnell und effektiv auf die Bedürfnisse und Herausforderungen vor Ort zu reagieren. So trägt GeZuWa dazu bei, dass Lenzing auch in Zukunft eine lebenswerte und attraktive Gemeinde bleibt.
 
 Aktiv, unabhängig, freiwillig: So engagieren wir uns für die Gemeinschaft aller Lenzinger BürgerInnen.
 
