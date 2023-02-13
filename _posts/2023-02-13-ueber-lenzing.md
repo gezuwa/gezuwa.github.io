@@ -1,6 +1,6 @@
 ---
 layout: default
-title:  "Die Marktgemeinee Lenzing in Oberösterreich: Info und Fakten"
+title:  "Die Marktgemeinde Lenzing in Oberösterreich: Info und Fakten"
 ---
 Lenzing ist eine Marktgemeinde in Oberösterreich, im Bezirk Vöcklabruck und Gerichtsbezirk Vöcklabruck gelegen. 
 
