@@ -4,4 +4,4 @@ description: Der Verein GeZuWa ist der Zusammenschluss von Menschen für ein lie
 lang: de-AT
 google_analytics: UA-109503214-1
 repository: gezuwa/gezuwa.github.io.
-
+permalink: /:categories/:title/
