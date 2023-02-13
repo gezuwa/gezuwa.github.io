@@ -21,7 +21,7 @@ Ostern ist ein Fest voller Farben und Freude und die perfekte Gelegenheit, um de
 
 ## Schritt 1: Eier bemalen
 
-Zunächst musst du deine Papier-Mache-Eier in den gewünschten Farben bemalen. Verwende hierfür am besten Acrylfarben und einen Pinsel. Du kannst die Eier in einer soliden Farbe bemalen oder verschiedene Muster und Designs ausprobieren. Lass die Farbe gut trocknen. Bastele doch dazu für liebe Verwandte diese [Geld-Osterhasen für das Osternest](https://nicbastelt.com/gebaut/osterhasen-fuer-das-osternest)
+Zunächst musst du deine Papier-Mache-Eier in den gewünschten Farben bemalen. Verwende hierfür am besten Acrylfarben und einen Pinsel. Du kannst die Eier in einer soliden Farbe bemalen oder verschiedene Muster und Designs ausprobieren. Lass die Farbe gut trocknen. Bastele doch dazu für liebe Verwandte diese [Geld-Osterhasen für das Osternest](https://nicbastelt.com/gebaut/osterhasen-fuer-das-osternest).
 
 ## Schritt 2: Filzblumen basteln
 
