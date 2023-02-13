@@ -5,6 +5,7 @@ title:  "Handgemachte Taufkerzen"
 # Individuelle Kerzen zur Taufe - Ein besonderes Geschenk
 
 Die Taufe eines Kindes ist ein bedeutender Moment im Leben. Dieses Ereignis sollte mit einem besonderen Geschenk gebührend gefeiert werden. Eine personalisierte Taufkerze kann eine wunderbare Erinnerung an diesen besonderen Tag sein.
+![Taufkerze](https://www.alleskerzal.at/images/32.jpg)
 
 ## Warum eine individuelle Kerze?
 
