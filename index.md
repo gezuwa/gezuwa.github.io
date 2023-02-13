@@ -4,7 +4,25 @@
 Der Verein **GeZuWa** ist der Zusammenschluss von Menschen für ein liebenswertes Leben in [Lenzing](https://de.wikipedia.org/wiki/Lenzing).
 --->
 
+# Willkommen in Lenzing
+
+**Lenzing** ist eine charmante Marktgemeinde im Bezirk Vöcklabruck im Osten Österreichs, die ein hohes Potenzial für Leben und Arbeit bietet. Die Region ist bekannt für ihre malerischen Landschaften, ihre reiche Geschichte und Kultur sowie ihre lebendige Wirtschaft.
+
+## Ein Ort zum Leben
+
+Lenzing bietet seinen Bewohnern eine hohe Lebensqualität. Der Markt verfügt über eine ausgezeichnete Infrastruktur mit einer Vielzahl an Einkaufsmöglichkeiten, Restaurants, Freizeitaktivitäten und Bildungseinrichtungen. Die Landschaft um die Stadt herum ist geprägt von [malerischen Flüssen, Wäldern und Bergen](https://de.wikipedia.org/wiki/Salzkammergut), die zum Wandern, Radfahren und Erholen einladen.
+
+## Ein Ort zum Arbeiten
+
+Nicht nur für seine Bewohner, sondern auch [für die Wirtschaft bietet Lenzing viele Möglichkeiten](http://www.wfl.or.at/). Die Region ist ein wichtiger Wirtschaftsfaktor im Bezirk Vöcklabruck und verfügt über eine vielfältige Industrie- und Dienstleistungslandschaft. Die Lage im Osten Österreichs und die Nähe zu internationalen Verkehrsverbindungen ermöglichen es Unternehmen, erfolgreich zu agieren und zu wachsen.
+
 ## Wer wir sind<a name="werwirsind"></a>
+
+GeZuWa, der Verein für Dorf- und Stadtentwicklung der Marktgemeinde Lenzing, spielt eine wichtige Rolle bei der Förderung und Stärkung des Ortes. Durch den Zusammenschluss von Bürgern, Unternehmen und politischen Entscheidungsträgern arbeitet GeZuWa daran, die Lebens- und Wirtschaftqualität in Lenzing zu verbessern.
+
+GeZuWa initiiert und unterstützt Projekte, die zur Stärkung der Gemeinde beitragen, wie zum Beispiel die Renovierung öffentlicher Plätze, die Förderung von Kultur- und Freizeitangeboten sowie die [Entwicklung von Wirtschafts- und Bildungsprojekten](https://www.gsg-wohnen.at/de/unternehmen/aktuelles/eroeffnung-dienstleistungszentrum-lenzing/).
+
+Durch die enge Zusammenarbeit von GeZuWa mit der Gemeindeverwaltung und der Bevölkerung ist es möglich, schnell und effektiv auf die Bedürfnisse und Herausforderungen vor Ort zu reagieren. So trägt GeZuWa dazu bei, dass Lenzing auch in Zuk
 
 Aktiv, unabhängig, freiwillig: So engagieren wir uns für die Gemeinschaft aller Lenzinger BürgerInnen.
 
