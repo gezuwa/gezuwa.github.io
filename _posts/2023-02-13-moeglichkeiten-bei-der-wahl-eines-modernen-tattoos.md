@@ -7,7 +7,7 @@ title: "Möglichkeiten bei der Wahl eines modernen Tattoos."
 
 Ein Tattoo ist eine bleibende Form der Selbstexpression und es ist wichtig, sorgfältig über die Wahl des Designs nachzudenken. Moderne Tattoos bieten eine Vielzahl von Möglichkeiten, von minimalen Linienzeichnungen bis hin zu komplexen Illustrationen. Hier sind einige Faktoren zu berücksichtigen, wenn Sie ein modernes Tattoo auswählen.
 
-![Tattoo-Muster]/assets/images/tattoo.jpeg
+![Tattoo-Muster]//assets/images/tattoo.jpeg "Tattoo-Muster")
 
 ## Stil
 
