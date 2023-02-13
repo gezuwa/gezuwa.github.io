@@ -10,6 +10,8 @@ Die Gemeinde hat eine **Fläche** von 8,89 km2 und eine **Seehöhe** von 502,943
 
 **Das Wappen von Lenzing** zeigt eine silberne Wellenleiste, die schräg rechts geteilt ist. Oben ist eine silberne, zur Hälfte blau gefüllte Retorte in Rot dargestellt und unten ein silberner Nadelbaum in Blau. Diese Symbole spiegeln die Bedeutung der örtlichen Wirtschaft wider, wobei die Retorte die [chemische Industrie](https://www.lenzing.com/) und der Nadelbaum die Papier- und Holzverarbeitung repräsentieren. Das silberne Wellenband steht für den Fluss [Ager](https://de.wikipedia.org/wiki/Ager). Die Gemeindefarben sind Rot, Weiß und Blau.
 
+## Umwelt und Naturschutz 
+
 In Lenzing ist ein gut ausgebautes Wasser- und Kanalisationsnetz vorhanden. Das Gemeindestraßennetz ist 60,63 km lang. Die Müllbeseitigung erfolgt im Rahmen einer Müllabfuhrgemeinschaft mit anderen Gemeinden und das [Abfallsammelzentrum](https://www.altstoffsammelzentrum.at/wo_wann_was/asz/show/Asz/seewalchen.html "ASZ Attersee-Nord") befindet sich im Industriegebiet 10 im Gemeindegebiet von Seewalchen.
 
 ## Verkehrsanbindung
