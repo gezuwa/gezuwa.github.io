@@ -27,7 +27,6 @@ In Lenzing gibt es eine Vielzahl von Arbeitgebern aus unterschiedlichen Branchen
 * [Lenzing AG](https://www.lenzing.com/), chemische Industrie
 * [Salesianer](https://www.salesianer.at/), Sterilgut/Textillogistik
 * [Jodl](https://www.jodl.at/), Verpackungen
-* [Xyrofin](https://www.xyrofin.com/), Chem. Industrie
 * [SML](https://www.sml.at/), Maschinenbau
 
 Dies sind nur einige Beispiele, es können noch weitere Betriebe in Lenzing ansässig sein.
