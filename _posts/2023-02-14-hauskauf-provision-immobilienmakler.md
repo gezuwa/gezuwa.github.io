@@ -12,8 +12,6 @@ In der Fachsprache nennt man die Verkäuferprovision „Innenprovision“, währ
 
 Als Gegenleistung für die Provision hilft der Makler dem Verkäufer bei der Wertermittlung, erstellt Verkaufsunterlagen (Exposés), inseriert das Objekt in Zeitungen und auf Immobilienportalen im Internet und führt Kaufinteressenten durch die Immobilie. Gerade im privaten Bereich hat ein Verkäufer oft nicht die Zeit für wiederholte Führungen, oder ihm fehlt der Überblick über den Markt mit allen rechtlichen Fallstricken. Damit leistet der Makler also einen fachmännischen Beitrag zu dem ganzen Geschäftsfall, wie etwa auch der Notar bei der Formulierung des Kaufvertrags oder der Möbelpacker beim <txp:wet_link href="17">Umzug</txp:wet_link>
 
-.
-
 ### Die Provision ist Verhandlungssache
 
 Das Gesetz legt nur die Obergrenze der Provision fest. Es gibt aber kein Gesetz, das den Makler daran hindert, seine Provisionsansprüche zu senken. Die Höhe der Provision ist also verhandelbar, auch wenn der Makler aus nahe liegenden Gründen nicht ausdrücklich darauf hinweist. Die Verhandlungspositionen für Verkäufer und Käufer hängen dabei von ein paar logischen Faktoren ab:
