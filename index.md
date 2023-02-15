@@ -14,7 +14,7 @@ Lenzing bietet seinen Bewohnern eine hohe Lebensqualität. Der Markt verfügt ü
 
 ## Ein Ort zum Arbeiten
 
-Nicht nur für seine Bewohner, sondern auch [für die Wirtschaft bietet Lenzing viele Möglichkeiten](http://www.wfl.or.at/). Die Region ist ein wichtiger Wirtschaftsfaktor im Bezirk Vöcklabruck und verfügt über eine vielfältige Industrie- und Dienstleistungslandschaft. Die Lage im Osten Österreichs und die Nähe zu internationalen Verkehrsverbindungen ermöglichen es Unternehmen, erfolgreich zu agieren und zu wachsen.
+Nicht nur für seine Bewohner, sondern auch [für die Wirtschaft bietet Lenzing viele Möglichkeiten](/ueber-lenzing/#wirtschaft). Die Region ist ein wichtiger Wirtschaftsfaktor im Bezirk Vöcklabruck und verfügt über eine vielfältige Industrie- und Dienstleistungslandschaft. Die Lage im Osten Österreichs und die Nähe zu internationalen Verkehrsverbindungen ermöglichen es Unternehmen, erfolgreich zu agieren und zu wachsen.
 
 ## Wer wir sind<a name="werwirsind"></a>
 
