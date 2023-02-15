@@ -29,6 +29,7 @@ In Lenzing gibt es eine Vielzahl von Arbeitgebern aus unterschiedlichen Branchen
 * [Lenzing AG](https://www.lenzing.com/), chemische Industrie
 * [Salesianer](https://www.salesianer.at/), Sterilgut/Textillogistik
 * [Jodl](https://www.jodl.at/), Verpackungen
+* [Autohaus Graiger GmbH](https://www.opel-graiger.at/ "Neu- und Gebrauchtfahrzeuge, Zweiräder, Ersatzteile und Zubehör sowie Service- und Reparaturarbeiten."), Neu- und Gebrauchtfahrzeuge, Zweiräder, Ersatzteile und Zubehör.
 * [SML](https://www.sml.at/), Maschinenbau
 
 Dies sind nur einige Beispiele, es können noch weitere Betriebe in Lenzing ansässig sein.
