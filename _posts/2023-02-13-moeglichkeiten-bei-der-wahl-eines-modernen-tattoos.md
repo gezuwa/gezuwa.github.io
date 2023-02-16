@@ -7,7 +7,7 @@ title: "Möglichkeiten bei der Wahl eines modernen Tattoos"
 
 Ein Tattoo ist eine bleibende Form der Selbstverwirkllichung und es ist wichtig, sorgfältig über die Wahl des Designs nachzudenken. Moderne Tattoos bieten eine Vielzahl von Möglichkeiten, von minimalen Linienzeichnungen bis hin zu komplexen Illustrationen. Hier sind einige Faktoren zu berücksichtigen, wenn Sie ein modernes Tattoo auswählen.
 
-![Tattoo-Muster](/assets/images/tattoo.jpeg "Tattoo-Muster")
+![Tattoo-Muster Mother](/assets/images/tattoo.jpeg "Tattoo-Muster Mother")
 
 ## Stil
 
@@ -16,6 +16,7 @@ Einer der wichtigsten Faktoren bei der Wahl eines Tattoos ist der Stil. Es gibt 
 ## Größe und Platzierung
 
 Die Größe und Platzierung Ihres Tattoos sollten ebenfalls berücksichtigt werden. Größere Tattoos eignen sich gut für größere Körperbereiche wie den Rücken oder die Brust, während kleinere Tattoos gut für empfindlichere Bereiche wie den Hals oder das Handgelenk geeignet sind. Überlegen Sie sich, wie sichtbar Sie Ihr Tattoo tragen möchten und wählen Sie entsprechend eine geeignete Größe und Platzierung.
+![Modernes farbiges Tattoo auf dem Oberarm einer weißen jungen westlichen erwachsenen Frau mit langen dunklen Haaren](/assets/images/modern_coloured_tattoo.jpg "Modernes farbiges Tattoo auf dem Oberarm einer weißen jungen westlichen erwachsenen Frau mit langen dunklen Haaren")
 
 ## Farbe oder schwarzweiß
 
