@@ -7,7 +7,7 @@ title: "Abnehmen: Tipps und Tricks für eine erfolgreiche Diät"
 
 Eine gesunde Ernährung und regelmäßige Bewegung sind der Schlüssel zum Abnehmen. Doch manchmal braucht man ein paar zusätzliche Tipps, um den Prozess zu beschleunigen. Hier sind einige Tipps, die Ihnen helfen können, Ihre Ziele zu erreichen.
 
-![Junge schlanke Frau in Shorts](/assets/images/young_woman_in_shorts.jpg) "Junge schlanke Frau in Shorts"
+![Junge schlanke Frau in Shorts](/assets/images/young_woman_in_shorts.jpg "Junge schlanke Frau in Shorts")
 
 ## Essen Sie regelmäßig und in kleinen Portionen
 
