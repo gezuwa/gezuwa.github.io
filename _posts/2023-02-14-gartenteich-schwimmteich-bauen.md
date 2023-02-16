@@ -7,6 +7,8 @@ title: "Gartenteich und Schwimmteich: Ein Oase im Garten bauen"
 
 Eine Vielzahl von Tier- und Pflanzenarten zieht mit einem Teich in Ihren Garten ein. Bei der Planung und dem Bau eines Teichs im Garten sollten Sie daher die biologischen Zusammenhänge verstehen, um lange Freude an Ihrem Teich zu haben.
 
+![Schwimmteich im Garten bauen](/assets/images/swimming_pond_in_the_garden.jpg "Schwimmteich im Garten bauen")
+
 ### Gartenteich und Schwimmteich bauen und pflegen
 
 Größe und Form des Teichs sollten in einem passenden Verhältnis zum Grundstück und zum Haus stehen. Als Mindestanforderung für stabile Wasserverhältnisse gelten eine Wasserfläche von 5 m<sup>2</sup> und etwa 80 cm Wassertiefe. Das ökologische Gleichgewicht und die Fähigkeit zur Selbstreinigung steigen aber mit der Größe des Teichs.
