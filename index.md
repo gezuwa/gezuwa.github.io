@@ -12,6 +12,8 @@ Der Verein **GeZuWa** ist der Zusammenschluss von Menschen für ein liebenswerte
 
 Lenzing bietet seinen Bewohnern eine hohe Lebensqualität. Der Markt verfügt über eine ausgezeichnete Infrastruktur mit einer Vielzahl an Einkaufsmöglichkeiten, Restaurants, Freizeitaktivitäten und Bildungseinrichtungen. Die Landschaft um die Stadt herum ist geprägt von [malerischen Flüssen, Wäldern und Bergen](https://de.wikipedia.org/wiki/Salzkammergut), die zum Wandern, Radfahren und Erholen einladen.
 
+![Flüsse, Wälder und Berge](/assets/images/natural_landscape.jpg "Flüsse, Wälder und Berge")
+
 ## Ein Ort zum Arbeiten
 
 Nicht nur für seine Bewohner, sondern auch [für die Wirtschaft bietet Lenzing viele Möglichkeiten](/ueber-lenzing/#wirtschaft). Die Region ist ein wichtiger Wirtschaftsfaktor im Bezirk Vöcklabruck und verfügt über eine vielfältige Industrie- und Dienstleistungslandschaft. Die Lage im Osten Österreichs und die Nähe zu internationalen Verkehrsverbindungen ermöglichen es Unternehmen, erfolgreich zu agieren und zu wachsen.
