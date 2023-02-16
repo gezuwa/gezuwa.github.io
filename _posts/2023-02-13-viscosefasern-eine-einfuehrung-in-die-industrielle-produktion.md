@@ -10,6 +10,8 @@ Viscosefasern sind synthetische Fasern, die aus Zellulose hergestellt werden. Si
 
 ## Herstellungsprozess
 
+![Chemische Industriaanlage](/assets/images/industrial_chemical_plant_in_the_summer_sunset.jpeg "Chemische Industriaanlage")
+
 Der Herstellungsprozess von Viscosefasern kann in sechs Hauptschritte unterteilt werden:
 
 1. Vorbereitung der Zellulose: Die Zellulose wird aus Holz oder Baumwollresten gewonnen und in eine lösliche Form umgewandelt.
