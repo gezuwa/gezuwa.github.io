@@ -6,6 +6,8 @@ title: "Anleitung für das Basteln einer Osterdekoration"
 
 Ostern ist ein Fest voller Farben und Freude und die perfekte Gelegenheit, um deine Kreativität auszuleben. Warum nicht eine selbst gemachte Osterdekoration basteln, um deine Wohnung oder deinen Garten zu verschönern? Hier ist eine einfache Anleitung, um eine süße Osterdekoration zu basteln.
 
+![Basteln einer Osterdekoration](/assets/images/easter_decoration.jpg "Basteln einer Osterdekoration")
+
 ## Materialien
 
 - Eier (am besten aus Papier-Mache)
