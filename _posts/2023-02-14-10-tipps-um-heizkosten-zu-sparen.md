@@ -7,6 +7,9 @@ title: "10 Tipps, um Heizkosten zu sparen"
 
 Der Ölpreis erreicht historische Höchststände, andere Energiequellen wie Erdgas oder Brennholz ziehen mit der Preisentwicklung von Heizöl mehr oder weniger mit – Zeit, sich über mögliche Einsparungen bei Heizkosten Gedanken zu machen. Schon mit kleinen Änderungen an der Hezungseinstellung kann man die Kosten der Wohnraumheizung senken:
 
+
+![Heizkosten sparen](/assets/images/heizkosten_sparen.jpg "10-Euro-Schein als Dch über einem Modellhaus")
+
 1. Entlüften Sie die Heizkörper! Luft hat eine wesentlich geringere Wärmetransportleistung als Wasser, außerdem rostet der Heizkörper innen durch den in der Luft enthaltenen Sauerstoff leichter.
 2. Begrenzen Sie den Wärmeverlust durch Fenster in der Nacht: Rollläden und Vorhänge zu schließen isoliert die warmen Räume von der Nachtkälte.
 3. Elektrische Heizlüfter sind nicht zur Dauerheizung gedacht.
