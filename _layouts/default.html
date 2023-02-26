@@ -132,7 +132,7 @@
         window.addEventListener('load',
             function () {
                 if (!wet_cookie_consent.get(wet_cookie_consent.name)) {
-                    var toast = 'Wir verwenden Cookies, um Inhalte und Anzeigen zu personalisieren, Funktionen für soziale Medien anbieten zu können und die Zugriffe auf diese Website zu analysieren. Wir geben Informationen zu Ihrer Nutzung dieser Website an Partner für soziale Medien, Werbung und Analysen weiter. <a href="./legalese.html">Details ansehen</a>\n <a class="wet_cookie_consent_dismiss" href="javascript:void(0);" onclick="wet_cookie_consent.hide(this.parentNode);">Einverstanden</a>';
+                    var toast = 'Wir verwenden Cookies, um Inhalte und Anzeigen zu personalisieren, Funktionen für soziale Medien anbieten zu können und die Zugriffe auf diese Website zu analysieren. Wir geben Informationen zu Ihrer Nutzung dieser Website an Partner für soziale Medien, Werbung und Analysen weiter. <a href="/legalese.html">Details ansehen</a>\n <a class="wet_cookie_consent_dismiss" href="javascript:void(0);" onclick="wet_cookie_consent.hide(this.parentNode);">Einverstanden</a>';
                     var div = document.createElement('div');
                     div.className = wet_cookie_consent.name;
                     div.innerHTML = toast;
