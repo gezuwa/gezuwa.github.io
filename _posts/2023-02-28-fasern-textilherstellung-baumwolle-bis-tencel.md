@@ -33,7 +33,7 @@ Ein Nachteil von Viskose ist, dass ihre Herstellung sehr umweltschädlich sein k
 
 ## Tencel
 
-Tencel ist eine Viskosefaserart, die aus Eukalyptusholz hergestellt wird. Tencel ist sehr umweltfreundlich, da es in einem geschlossenen Kreislaufsystem hergestellt wird, das den Wasserverbrauch reduziert und den Einsatz von Chemikalien minimiert. Tencel ist außerdem sehr weich und angenehm zu tragen und hat eine hohe Feuchtigkeitsaufnahme und Atmungsaktivität. Es eignet sich gut für Kleidungsstücke, die eng am Körper anliegen, wie Unterwäsche und T-Shirts.
+Tencel ist eine Viskosefaserart, die aus Holz hergestellt wird. Tencel ist sehr umweltfreundlich, da es in einem geschlossenen Kreislaufsystem hergestellt wird, das den Wasserverbrauch reduziert und den Einsatz von Chemikalien minimiert. Tencel ist außerdem sehr weich und angenehm zu tragen und hat eine hohe Feuchtigkeitsaufnahme und Atmungsaktivität. Es eignet sich gut für Kleidungsstücke, die eng am Körper anliegen, wie Unterwäsche und T-Shirts.
 
 Ein weiterer Vorteil von Tencel ist seine Langlebigkeit und die Fähigkeit, Form und Farbe über einen langen Zeitraum zu erhalten. Außerdem ist es sehr pflegeleicht und kann bei niedrigen Temperaturen gewaschen werden, was die Umweltbelastung reduziert.
 
