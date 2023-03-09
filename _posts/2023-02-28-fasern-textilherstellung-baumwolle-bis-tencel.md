@@ -7,6 +7,8 @@ title: "Fasern in der Textilherstellung: Von Baumwolle bis Tencel"
 
 Die Wahl der Faser ist eine der wichtigsten Entscheidungen bei der Herstellung von Textilien. Es gibt viele verschiedene Arten von Fasern, die weltweit verwendet werden. In diesem Artikel betrachten wir die am häufigsten verwendeten Fasern und konzentrieren uns dabei besonders auf Viskosefasern und Tencel.
 
+![Fasern in der Textilherstellung: Von Baumwolle bis Tencel](/assets/images/cotton_polyester_viscose_wool_tencel.jpg "Fasern in der Textilherstellung: Von Baumwolle bis Tencel")
+
 ## Baumwolle
 
 Baumwolle ist eine Naturfaser und eine der am häufigsten verwendeten Fasern in der Textilindustrie. Sie wird aus den Samen der Baumwollpflanze gewonnen und ist weich, bequem und atmungsaktiv. Baumwolle ist strapazierfähig und kann bei hohen Temperaturen gewaschen werden, was sie zu einer guten Wahl für Alltagskleidung macht.
