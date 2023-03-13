@@ -23,9 +23,9 @@ Der Wolfgangsee ist einer der bekanntesten Seen im Salzkammergut und bietet eine
 
 Der Attersee ist einer der größten Seen im Salzkammergut und ein beliebtes Ausflugsziel für Touristen und Einheimische. Der See bietet kristallklares Wasser und eine spektakuläre Landschaft, die von den umliegenden Bergen geprägt ist.
 
-Der Attersee hat auch eine bedeutende Kulturgeschichte, die bis in die Zeit der Romantik zurückreicht. Zahlreiche Künstler, Schriftsteller und Musiker ließen sich von der Schönheit des Sees inspirieren, darunter auch Gustav Klimt, der hier mehrere Sommer verbrachte und einige seiner berühmtesten Werke schuf.
+Der Attersee hat auch eine bedeutende Kulturgeschichte, die bis in die Zeit der Romantik zurückreicht. Zahlreiche Künstler, Schriftsteller und Musiker ließen sich von der Schönheit des Sees inspirieren, darunter auch __Gustav Klimt__, der hier mehrere Sommer verbrachte und einige seiner berühmtesten Werke schuf.
 
-![Schwimmerin im Attersee](/assets/images/swimmers_dressed_swimming_in_a_lake.jpg "Schwimmerin im Attersee &copy; Stable Diffusion")
+![Im Stil von Gustav Klimt: Junge Frauen schwimmen im Attersee beim Schloss Kammer &copy; Stable Diffusion](/assets/images/swimmers_dressed_swimming_in_a_lake.jpg "Im Stil von Gustav Klimt: Junge Frauen schwimmen im Attersee beim Schloss Kammer &copy; Stable Diffusion")
 
 Klimt hatte eine besondere Vorliebe für den Attersee und verbrachte hier viele Stunden beim Schwimmen, Segeln oder Spazieren am Ufer. Sein Einfluss ist noch heute im Attergau spürbar und es gibt zahlreiche Orte, die mit ihm in Verbindung gebracht werden, wie etwa die Klimt-Villa in Kammer am Attersee oder der Klimt-Wanderweg, der durch einige der schönsten Landschaften rund um den See führt.
 
