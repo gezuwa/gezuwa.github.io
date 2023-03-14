@@ -27,7 +27,7 @@ Der Attersee hat auch eine bedeutende Kulturgeschichte, die bis in die Zeit der 
 
 ![Im Stil von Gustav Klimt: Junge Frauen schwimmen im Attersee beim Schloss Kammer &copy; Stable Diffusion](/assets/images/swimmers_dressed_swimming_in_a_lake.jpg "Im Stil von Gustav Klimt: Junge Frauen schwimmen im Attersee beim Schloss Kammer &copy; Stable Diffusion")
 
-Klimt hatte eine besondere Vorliebe für den Attersee und verbrachte hier viele Stunden beim Schwimmen, Segeln oder Spazieren am Ufer. Sein Einfluss ist noch heute im Attergau spürbar und es gibt zahlreiche Orte, die mit ihm in Verbindung gebracht werden, wie etwa die [Klimt-Villa in Seewalchen am Attersee](http://www.villapaulick.at/ " Die Villa Paulick ist der Platz an dem Gustav Klimt und Emilie Flöge gemeinsam viele Stunden verbrachten.") oder der Klimt-Wanderweg, der durch einige der schönsten Landschaften rund um den See führt.
+Klimt hatte eine besondere Vorliebe für den Attersee und verbrachte hier viele Stunden beim Schwimmen, Segeln oder Spazieren am Ufer. Sein Einfluss ist noch heute im Attergau spürbar und es gibt zahlreiche Orte, die mit ihm in Verbindung gebracht werden, wie etwa die [Klimt-Villa in Seewalchen am Attersee](http://www.villapaulick.at/ "Die Villa Paulick ist der Platz, an dem Gustav Klimt und Emilie Flöge gemeinsam viele Stunden verbrachten.") oder der Klimt-Wanderweg, der durch einige der schönsten Landschaften rund um den See führt.
 
 Ein weiterer besonderer Ort am Attersee ist das Schloss Kammer, eine Barockresidenz der Familie Kuenburg aus dem 18. Jahrhundert, die heute als Museum und Veranstaltungsort dient.
 
