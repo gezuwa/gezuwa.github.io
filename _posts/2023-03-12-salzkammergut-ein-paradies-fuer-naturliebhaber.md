@@ -7,6 +7,8 @@ title: "Entdecke das Salzkammergut: Ein Paradies für Naturliebhaber"
 
 Das Salzkammergut in Oberösterreich ist eine Region mit atemberaubenden Landschaften, kristallklaren Seen und majestätischen Bergen. Die Kombination aus beeindruckender Natur und reicher Kultur macht das Salzkammergut zu einem idealen Reiseziel für alle, die einen erholsamen und zugleich erlebnisreichen Urlaub suchen. In diesem Artikel stellen wir einige der beliebtesten Ausflugsziele im Salzkammergut sowie einige Geheimtipps vor.
 
+![Wandern im Salzkammergut: Erfrischende Landschaft](/assets/images/gebirge-see-landschaft.jpg "Wandern im Salzkammergut: Erfrischende Landschaft")
+
 ## Hallstatt: UNESCO-Weltkulturerbe
 
 Der malerische Ort Hallstatt ist zweifellos das bekannteste und meistbesuchte Ausflugsziel im Salzkammergut. Es ist berühmt für seine einzigartige Kultur und seine atemberaubende Lage am Hallstätter See, umgeben von hohen Bergen. Hallstatt bietet viele historische Sehenswürdigkeiten wie die Salzwelten Hallstatt, eines der ältesten Salzbergwerke der Welt, die Knochenhöhle, die Dachstein Eishöhle und vieles mehr. Sehenswert ist auch das malerische Ortsbild mit seinen bunten Häusern, engen Gassen und dem malerischen Marktplatz mit der Stiftskirche.
