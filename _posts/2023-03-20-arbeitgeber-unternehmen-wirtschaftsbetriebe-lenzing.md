@@ -2,7 +2,7 @@
 layout: default
 title: "Vielfalt der Wirtschaft: Unternehmen und Arbeitgeber, die Lenzing prägen"
 ---
-![Hübsche Frau am Arbeitsplatz im Büro](/assets/images/frau-arbeitsplatz-buero.jpg) "Hübsche Frau am Arbeitsplatz im Büro")
+![Hübsche Frau am Arbeitsplatz im Büro](/assets/images/frau-arbeitsplatz-buero.jpg "Hübsche Frau am Arbeitsplatz im Büro")
 
 # Vielfalt der Wirtschaft: Unternehmen und Arbeitgeber, die Lenzing prägen
 
