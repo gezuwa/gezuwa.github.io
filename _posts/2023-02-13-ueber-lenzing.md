@@ -26,7 +26,7 @@ Lenzing ist **mit dem Auto** über die Westautobahn (A1), Ausfahrt Seewalchen am
 
 ## Wirtschaft
 
-In Lenzing gibt es eine Vielzahl von Arbeitgebern aus unterschiedlichen Branchen:
+In Lenzing gibt es eine [Vielzahl von Arbeitgebern](https://www.gezuwa.at/arbeitgeber-unternehmen-wirtschaftsbetriebe-lenzing/ "Vielfalt der Wirtschaft: Unternehmen und Arbeitgeber, die Lenzing prägen") aus unterschiedlichen Branchen:
 
 * [Lenzing AG](https://www.lenzing.com/) &ndash; Lenzing stellt Fasern her, die in einer breiten Palette von Produkten verwendet werden, darunter Mode, Heimtextilien, Schutzkleidung, Outdoorbekleidung, Kosmetik, Hygieneprodukte und High-Tech-Produkte.
 * [Salesianer](https://www.salesianer.at/) &ndash; Die SALESIANER Gruppe ist ein führendes Familienunternehmen in der Region Österreich, Zentral-, Süd- und Osteuropa, das sich auf nachhaltiges Textilmanagement spezialisiert hat. Sie bietet hochwertige Wäschereidienstleistungen und Miettextilien für verschiedene Branchen wie Gesundheitswesen, Hotellerie und Gastronomie sowie Industrie und Gewerbe. Darüber hinaus werden Reinraumtextilien, Waschraumhygiene sowie Werbe- und Schmutzfangmatten angeboten.
