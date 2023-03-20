@@ -55,7 +55,7 @@ Unternehmen ist stolz darauf, hochwertige Produkte zu liefern, die den
 höchsten Standards in Bezug auf Qualität, Sicherheit und Nachhaltigkeit
 entsprechen.
 
-## Autohaus Graiger GmbH
+## Autohaus Graiger GmbH / Vespa Center Oberösterreich
 
 Das [Autohaus Graiger GmbH](https://www.opel-graiger.at/) in Lenzing ist ein Opel-Vertragspartner, der
 eine breite Palette von Dienstleistungen anbietet. Dazu gehören der
@@ -65,7 +65,9 @@ Unfallschadenreparaturen. Das Unternehmen legt großen Wert auf
 Kundenzufriedenheit und eine hohe Qualität seiner Produkte und
 Dienstleistungen. Das Autohaus Graiger GmbH ist ein wichtiger
 Arbeitgeber in Lenzing und bietet Jobs in verschiedenen Bereichen wie
-Verkauf, Service und Werkstatt.
+Verkauf, Service und Werkstatt. 
+
+Auf einer Fläche von 3.100 m² werden [Zweiräder der Marken Vespa, Piaggio, Rieju und MotoBi](https://www.vespa-graiger.at/ "Moped und Vespa kaufen in Oberösterreich") verkauft und eine bestens ausgestattete Werkstatt für Service- und Reparaturarbeiten an Vespas betrieben. In der zur Vespa-Werkstatt gehörenden Spenglerei und Lackiererei werden auch umfassende Instandsetzungsarbeiten angeboten.
 
 ## SML
 
