@@ -52,15 +52,17 @@ Hast du selbst etwas zu sagen? Schreib uns und mach dich bemerkbar!
 - Kein Facebook? Kein Problem! E-Mail an [hallo@gezuwa.at](mailto:hallo@gezuwa.at) und du wirst gehört.
 - Sprichst du lieber mit Menschen aus Fleisch und Blut, statt in die Computertastatur zu klopfen? Komm zu unseren Treffen und rede mit. Ort und Termine findest du [hier](https://www.facebook.com/pg/gezuwa/events/). 
 
-## Weitere Info
+## Mehr über Arbeiten, Leben, Lachen und Lieben in Lenzing
 
 <ul>
-  {% for post in site.posts %}
-    <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
-    </li>
-  {% endfor %}
+{% for post in site.posts %}
+  <li>
+    <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
+    <p>{{ post.excerpt }}</p>
+  </li>
+{% endfor %}
 </ul>
+
 
 ## Impressum<a name="impressum"></a>
 
