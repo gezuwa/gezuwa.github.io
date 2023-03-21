@@ -1,9 +1,9 @@
 ---
 layout: default
-title: "Entdecken Sie die schönsten Wanderungen im Salzkammergut und Alpenvorland rund um Attersee, Traunsee, Wolfgangsee und Mondsee"
+title: "Entdecke die schönsten Wanderungen im Salzkammergut und Alpenvorland rund um Attersee, Traunsee, Wolfgangsee und Mondsee"
 ---
 
-# Entdecken Sie die schönsten Wanderungen im Salzkammergut und Alpenvorland rund um Attersee, Traunsee, Wolfgangsee und Mondsee
+# Entdecke die schönsten Wanderungen im Salzkammergut und Alpenvorland rund um Attersee, Traunsee, Wolfgangsee und Mondsee
 
 Das **Salzkammergut** ist eine der schönsten Regionen Österreichs und bietet Wanderwege für jeden Geschmack. In diesem Artikel stellen wir Ihnen einige der schönsten Wanderungen im Salzkammergut vor, die Sie sich nicht entgehen lassen sollten.
 
