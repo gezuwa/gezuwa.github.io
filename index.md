@@ -58,7 +58,7 @@ Hast du selbst etwas zu sagen? Schreib uns und mach dich bemerkbar!
 {% for post in site.posts %}
   <li>
     <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
-    <p>{{ post.content | markdownify | strip_html | truncatewords: 50 }}</p>
+    <p>{{ post.content | markdownify | strip_html | truncatewords: 40 }}</p>
   </li>
 {% endfor %}
 </ul>

@@ -7,8 +7,6 @@ title: "Vielfalt der Wirtschaft: Unternehmen und Arbeitgeber, die Lenzing präge
 
 Entdecke die Vielfalt der Lenzinger Wirtschaft! Die oberösterreichische Kleinstadt beherbergt eine beeindruckende Auswahl an Arbeitgebern aus den verschiedensten Branchen. Hier erfährst du mehr über einige der wichtigsten Unternehmen, die Lenzing zu einem wirtschaftlichen Hotspot machen.
 
-<!--more-->
-
 ![Hübsche Frau am Arbeitsplatz im Büro](/assets/images/frau-arbeitsplatz-buero.jpg "Hübsche Frau am Arbeitsplatz im Büro")
 
 ## Lenzing AG
