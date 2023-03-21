@@ -12,6 +12,8 @@ Lenzing ist eine Marktgemeinde in Oberösterreich, im Bezirk Vöcklabruck und Ge
 
 Die Gemeinde hat eine **Fläche** von 8,89 km2 und eine **Seehöhe** von 502,943 m (Messpunkt Gemeindeamt). Laut einer Statistik vom 31.12.2017 hatte Lenzing 5.066 Einwohner.
 
+<!--more-->
+
 **Das Wappen von Lenzing** zeigt eine silberne Wellenleiste, die schräg rechts geteilt ist. Oben ist eine silberne, zur Hälfte blau gefüllte Retorte in Rot dargestellt und unten ein silberner Nadelbaum in Blau. Diese Symbole spiegeln die Bedeutung der örtlichen Wirtschaft wider, wobei die Retorte die [chemische Industrie](https://www.lenzing.com/) und der Nadelbaum die Papier- und Holzverarbeitung repräsentieren. Das silberne Wellenband steht für den Fluss [Ager](https://de.wikipedia.org/wiki/Ager). Die Gemeindefarben sind Rot, Weiß und Blau.
 
 ## Umwelt und Naturschutz 
