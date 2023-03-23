@@ -27,7 +27,7 @@ Weitere Informationen: [Höllengebirge-Rundweg](https://www.attersee.at/de/hoell
 
 Der Schafberg ist mit 1783 Metern der höchste Berg am Attersee und bietet eine atemberaubende Aussicht auf den See und die umliegenden Berge. Die Wanderung beginnt in St. Wolfgang und dauert etwa 5 Stunden. Auf halbem Weg können Sie die Schafbergbahn nehmen, um Zeit zu sparen.
 
-Weitere Informationen: [Schafberg](https://www.salzkammergut.at/ausflugsziele/sehenswuerdigkeiten/schafberg.html)
+Weitere Informationen: [Schafberg]({% post_url 2023-03-22-der-schafberg-ein-atemberaubender-berg-mit-reicher-geschichte %})
 
 
 ## Die schönsten Wanderwege rund um den Traunsee
