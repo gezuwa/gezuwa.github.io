@@ -15,14 +15,14 @@ den Wolfgangsee.
 ## Lage und touristische Informationen
 
 Der Schafberg befindet sich in der Nähe der Stadt St. Wolfgang und ist
-leicht mit der Zahnradbahn zu erreichen. Die Zahnradbahn wurde bereits
+leicht mit [der Zahnradbahn](https://de.wikipedia.org/wiki/Schafbergbahn "Schafbergbahn") zu erreichen. Die Zahnradbahn wurde bereits
 1893 eröffnet und ist eine der steilsten Adhäsionsbahnen der Welt. Sie
 führt die Besucher auf eine malerische Fahrt durch die Landschaft bis
-zur Spitze des Schafbergs, wo sich ein Panoramarestaurant und ein Hotel
+zur Spitze des Schafbergs, wo sich ein [Panoramarestaurant und ein Hotel](https://schafberg.net/restaurant/ "Restaurant im Berghotel")
 befinden.
 
 Der Schafberg ist ein beliebtes Ziel für Wanderer, Bergsteiger und
-Naturliebhaber. Es gibt zahlreiche Wanderwege in der Umgebung, die den
+Naturliebhaber. Es gibt [zahlreiche Wanderwege](https://www.komoot.de/highlight/1556402 "Schafberg Wander-Highlight") in der Umgebung, die den
 Besuchern die Möglichkeit geben, die atemberaubende Aussicht auf die
 umliegenden Berge und Seen zu genießen. Es gibt auch viele Möglichkeiten
 für Outdoor-Aktivitäten wie Klettern, Mountainbiken und Paragliding.
