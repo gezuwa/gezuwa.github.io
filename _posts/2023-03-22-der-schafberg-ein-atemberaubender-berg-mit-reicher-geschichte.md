@@ -62,4 +62,3 @@ ein beliebtes Ziel für Wanderer, Bergsteiger und Naturliebhaber. Wer in
 der Nähe ist, sollte unbedingt einen Besuch auf den Schafberg einplanen,
 um diese atemberaubende Landschaft zu erleben.
 
-Weitere Informationen: [Schafberg](https://www.salzkammergut.at/ausflugsziele/sehenswuerdigkeiten/schafberg.html)
