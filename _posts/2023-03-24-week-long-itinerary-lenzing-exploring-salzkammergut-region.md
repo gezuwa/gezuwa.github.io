@@ -21,13 +21,37 @@ We'll arrive at Salzburg airport and pick up our rental car before making the sh
 
 Take a stroll through the town and learn about its industrial heritage. We'll start with a visit to the Lenzing AG headquarters, where we can see firsthand how they produce their world-famous cellulose-based fibers.
 
-## Day 2: Hiking in the mountains
+## Day 2: Hiking in the Salzkammergut Mountains
 
-Today, we'll take a break from the town and head up into the mountains. We'll drive to the Feuerkogel cable car station and take a ride to the top, where we can enjoy panoramic views of the Salzkammergut region. From there, we'll hike along the ridge to the summit of Schoberstein, which offers breathtaking views of the surrounding peaks. On the way back down, we'll stop for a picnic lunch and take in the beauty of the mountain scenery.
+Today, we'll explore the stunning Salzkammergut mountains with a beginner-friendly hike up to the summit of Grünberg. We'll start by driving to the town of Gmunden, about 30 minutes east of Lenzing.
+
+From Gmunden, we'll take the cable car up to the top of Grünberg, which offers stunning views of Lake Traunsee and the surrounding mountains. At the top, we'll begin our [hike to the summit of Grünberg](https://gruenberg.info/en/hike-activities/sporty-active/hiking-at-gruenberg/ "Hiking at Grünberg"), which is about 2.5 kilometers each way and takes approximately 1-2 hours to complete. The trail is well-marked and relatively easy, with only a moderate incline.
+
+Once we reach the summit, we'll enjoy panoramic views of the Salzkammergut region, including Lake Traunsee and the Dachstein mountains. We can also stop at the mountain hut for a snack or drink before heading back down to the cable car.
+
+After our hike, we'll return to Gmunden for lunch at one of the town's many cafes or restaurants. We can also explore the town's charming old town and visit the famous Gmunden Ceramic Factory, which produces traditional Gmundner Keramik pottery.
+
+In the evening, we'll return to Lenzing for dinner and a well-deserved rest.
+
+### Additional Information
+
+#### Grünberg Cable Car
+
+The [Grünberg cable car](https://gruenberg.info/en/hike-activities/attractions/gruenberg-cable-car/) is located in Gmunden and operates daily from late April to late October.
+
+#### Gmunden Ceramic Factory
+
+The [Gmunden Ceramic Factory](https://www.gmundner.at/en/) is located in the heart of Gmunden and produces traditional Gmundner Keramik pottery.
 
 ## Day 3: Lake Attersee
 
-Today, we'll spend the day exploring the crystal-clear waters of Lake Attersee. We can rent e-bikes and take a ride along the lakeshore, stopping for a swim in one of the many designated swimming areas. In the afternoon, we'll take a boat tour of the lake, which will give us a unique perspective on its beauty.
+Today, we'll explore the stunning Lake Attersee, located just three kilometers south of Lenzing. We'll start by driving to the town of Unterach am Attersee, where we'll park our car and rent some e-bikes to explore the lake's scenic cycle paths.
+
+We'll spend the morning cycling along the eastern shore of the lake, stopping to take in the views and visit some of the charming lakeside villages along the way, such as Steinbach am Attersee and Weyregg am Attersee. We can also stop for a swim in the crystal-clear waters of the lake.
+
+After lunch, we'll head to the town of Attersee am Attersee, where we'll take a boat tour of the lake. The boat tour offers stunning views of the lake and surrounding mountains and is a great way to relax and take in the scenery. We can also stop at some of the lakeside villages and towns along the way.
+
+In the evening, we'll return to Lenzing for dinner and a well-deserved rest.
 
 ## Day 4: Visit the St. Florian Monastery
 
