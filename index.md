@@ -18,6 +18,8 @@ Lenzing bietet seinen Bewohnern eine hohe Lebensqualität. Der Markt verfügt ü
 
 Nicht nur für seine Bewohner, sondern auch [für die Wirtschaft bietet Lenzing viele Möglichkeiten](/ueber-lenzing/#wirtschaft). Die Region ist ein wichtiger Wirtschaftsfaktor im Bezirk Vöcklabruck und verfügt über eine vielfältige Industrie- und Dienstleistungslandschaft. Die Lage im Osten Österreichs und die Nähe zu internationalen Verkehrsverbindungen ermöglichen es Unternehmen, erfolgreich zu agieren und zu wachsen.
 
+![GeZuWa, der Verein für Dorf- und Stadtentwicklung der Marktgemeinde Lenzing](/assets/images/gezuwa-logo.webp "GeZuWa, der Verein für Dorf- und Stadtentwicklung der Marktgemeinde Lenzing")
+
 ## Wer wir sind<a name="werwirsind"></a>
 
 GeZuWa, der Verein für Dorf- und Stadtentwicklung der Marktgemeinde Lenzing, spielt eine wichtige Rolle bei der Förderung und Stärkung des Ortes. Durch den Zusammenschluss von Bürgern, Unternehmen und politischen Entscheidungsträgern arbeitet GeZuWa daran, die Lebens- und Wirtschaftqualität in Lenzing zu verbessern.
