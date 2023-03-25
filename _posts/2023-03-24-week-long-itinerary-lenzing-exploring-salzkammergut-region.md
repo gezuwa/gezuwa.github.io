@@ -25,7 +25,7 @@ Take a stroll through the town and learn about its industrial heritage. We'll st
 
 Today, we'll explore the stunning Salzkammergut mountains with a beginner-friendly hike up to the summit of Grünberg. We'll start by driving to the town of Gmunden, about 30 minutes east of Lenzing.
 
-From Gmunden, we'll take the cable car up to the top of Grünberg, which offers stunning views of Lake Traunsee and the surrounding mountains. At the top, we'll begin our [hike to the summit of Grünberg](https://gruenberg.info/en/hike-activities/sporty-active/hiking-at-gruenberg/ "Hiking at Grünberg"), which is about 2.5 kilometers each way and takes approximately 1-2 hours to complete. The trail is well-marked and relatively easy, with only a moderate incline.
+From Gmunden, we'll take the cable car up to the top of Grünberg, which offers stunning views of Lake Traunsee and the surrounding mountains. Alternatively, you might also like to [hike to the summit of Grünberg](https://traunsee-almtal.salzkammergut.at/en/oesterreich-tour/detail/430001212/gruenbergweg-in-gmunden.html "Grünbergweg in Gmunden WW-410"), which is about 2.6 kilometers and takes approximately 1-2 hours to complete. The trail is well-marked and relatively easy, with only a moderate incline.
 
 Once we reach the summit, we'll enjoy panoramic views of the Salzkammergut region, including Lake Traunsee and the Dachstein mountains. We can also stop at the mountain hut for a snack or drink before heading back down to the cable car.
 
