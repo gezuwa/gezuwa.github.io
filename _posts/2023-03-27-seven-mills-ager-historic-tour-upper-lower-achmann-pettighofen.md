@@ -25,7 +25,7 @@ The Birmühle or Pichlmühle (Pettighofen 15) dates back to 1632 and was owned b
 
 ## Steinmühle or Wengermühle
 
-The most interesting of the seven mills is the Steinmühle (Wengermühle), which was first mentioned in a document in 1437. Duke Albrecht V, who reigned as Emperor Albrecht II of Germany from 1437 to 1439, donated the mill to the Kammer estate in Schörfling. In 1480 Emperor Frederick III sold the hereditary rights to the mill. Wolfgang von Polheim, who held the Attergau lordship in pledge from 1499, refused to recognise this sale and caused discontent among the subjects concerned, who complained to the sovereign. In 1512 the deed of the Steinmühle was confirmed with the following text:
+The most interesting of the seven mills is the Steinmühle (Wengermühle), which was first mentioned in a document in 1437. Duke Albrecht V, who reigned as Emperor Albrecht II of Germany from 1437 to 1439, donated the mill to the Kammer estate in Schörfling. In 1480 Emperor Friedrich III sold the hereditary rights to the mill. Wolfgang von Polheim, who held the Attergau lordship in pledge from 1499, refused to recognise this sale and caused discontent among the subjects concerned, who complained to the sovereign. In 1512 the deed of the Steinmühle was confirmed with the following text:
 
 "Emperor Friedrich granted Hannsen Mullner am Stain the hereditary right for his wife and children".
 
