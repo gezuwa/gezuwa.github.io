@@ -88,7 +88,7 @@ Weitere Informationen: [Drachenwand](https://www.mondsee.at/de/oesterreich/poi/4
 
 ### Irrsee-Rundweg
 
-Der Irrsee-Rundweg ist eine leichte Wanderung um den malerischen Irrsee und bietet eine herrliche Aussicht auf den See und die umliegenden Berge. Die Wanderung beginnt in Zell am Moos und dauert etwa 3 Stunden.
+Der Irrsee-Rundweg ist eine leichte Wanderung um den malerischen [Irrsee]({% post_url 2023-03-22-the-magnificent-irrsee-a-jewel-in-lenzings-crown %}) und bietet eine herrliche Aussicht auf den See und die umliegenden Berge. Die Wanderung beginnt in Zell am Moos und dauert etwa 3 Stunden.
 
 Weitere Informationen: [Irrsee-Rundweg](https://www.mondsee.at/de/oesterreich/poi/400272/irrsee-rundweg.html)
 
