@@ -11,7 +11,7 @@ The River Ager in Upper Austria was once a thriving centre of milling activity. 
 
 Located in the lower part of the Upper Ager in Unterachmann, the Mühle in der Au was originally a "hadern" mill, producing paper from textile scraps. The Peyr family owned the mill from 1690 to 1877, when Anton Peyr, the first mayor of Seewalchen, closed the mill and sold the property. Emil Hamburger bought the Aumühle in 1894 and in 1896 established the second paper mill on the Ager, the Pettighofen paper factory.
 
-## The Fellingermühle
+## Fellingermühle
 
 Opposite the Rabler shop was the Fellingermühle, which ceased operations before 1894. The building initially housed workers from the paper mill, but was later converted into flats. However, it was demolished in April 2007 and replaced by a residential complex in 2017. Prior to its development, the green space was a public recreational area, mainly used for swimming.
 
