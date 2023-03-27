@@ -7,7 +7,7 @@ title: "The seven mills of Ager: A historic tour of Upper and Lower Achmann and 
 
 The River Ager in Upper Austria was once a thriving centre of milling activity. Along a short two-kilometre stretch of the river in the towns of Upper and Lower Achmann and Pettighofen, seven mills supplied flour and bread not only to the local population but also to neighbouring villages. Let's take a tour of these historic mills, starting with the "Mühle in der Au" or "Papiermühle" in Unterachmann.
 
-![The seven mills of Ager: A historic tour](../assets/images/hiking-blonde.jpg "he seven mills of Ager: A historic tour")
+![The seven mills of Ager: Hiking a historic tour](/assets/images/hiking-blonde.jpg "The seven mills of Ager: Hiking a historic tour")
 
 ## Mühle in der Au or Papiermühle
 
