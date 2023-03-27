@@ -6,6 +6,8 @@ title: "The Magnificent Irrsee: A Jewel in Lenzing's Crown"
 
 The [Irrsee](https://de.wikipedia.org/wiki/Irrsee), also known as the Irrsee Lake, is a stunning freshwater lake located in the Salzkammergut region of Austria. This natural wonder is a popular tourist destination for visitors to Lenzing and the surrounding area. In this article, we will explore the tourist information, location, history, and connections to Lenzing of the magnificent Irrsee.
 
+![The Magnificent Irrsee](/assets/images/irrsee.jpg "The Magnificent Irrsee")
+
 ## Tourist Information
 
 The Irrsee is a popular destination for outdoor enthusiasts and nature lovers. It is known for its crystal-clear waters, picturesque scenery, and serene atmosphere. Visitors can swim, fish, hike, or simply relax on the shores of the lake. The surrounding area offers a wide range of recreational activities, such as cycling, boating, and horseback riding.
