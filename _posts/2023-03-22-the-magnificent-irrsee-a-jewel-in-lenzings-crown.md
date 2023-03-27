@@ -28,7 +28,7 @@ Today, the Irrsee remains a popular destination for visitors from all over the w
 
 ## Connections to Lenzing
 
-The Irrsee is an important part of Lenzing's cultural and natural heritage. The lake is located just 43 kilometers east of [Lenzing]({% post_url 2023-02-13-ueber-lenzing %}) and is easily accessible by car or public transportation. Many visitors to Lenzing choose to visit the Irrsee as part of their itinerary, taking advantage of the lake's recreational opportunities and breathtaking scenery.
+The Irrsee is an important part of Lenzing's cultural and natural heritage. The lake is located just 43 kilometers east of [Lenzing]({% post_url 2023-02-13-ueber-lenzing %}) and is easily accessible by car or public transportation. Many visitors to Lenzing choose to visit the [Irrsee as part of their itinerary](https://roamaround.io/itineraries/Irrsee/1-day-itinerary/hEe5F9IGbsBThD6BSR7J#top "Irrsee intinerary"), taking advantage of the lake's recreational opportunities and breathtaking scenery.
 
 In addition, the lake and its surrounding area have played an important role in the local economy for centuries. The lake was an important source of fish and water for the nearby villages and farms, and today it continues to attract tourists and visitors to the area, supporting the local economy.
 
