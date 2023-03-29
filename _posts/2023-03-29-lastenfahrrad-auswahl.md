@@ -48,11 +48,20 @@ Die Bremsen sind ein wichtiger Sicherheitsaspekt eines Lastenfahrrads. Sie sollt
 
 Eine Schaltung ist ein Mechanismus, der es ermöglicht, den Widerstand beim Treten anzupassen. Eine Schaltung kann das Fahren auf Hügeln oder in hügeligem Gelände erleichtern. Sie sollten sicherstellen, dass das Fahrrad über eine passende Schaltung für Ihre Bedürfnisse verfügt. Dabei sollten Sie auch die Anzahl und die Art der Gänge berücksichtigen. Die Anzahl der Gänge ist die Anzahl der möglichen Übersetzungsverhältnisse zwischen den Pedalen und den Rädern. Die Art der Gänge ist die Art des Schaltmechanismus, der die Übersetzungsverhältnisse ändert. Es gibt verschiedene Arten von Schaltungen für Lastenfahrräder, wie zum Beispiel Kettenschaltungen, Nabenschaltungen oder stufenlose Schaltungen.
 
+## Förderungen für Transporträder
+
+Es gibt [bundesweite und landesweite Förderungen für Transporträder](https://www.radlobby.at/node/1210), die sowohl für Private als auch für Betriebe und Vereine gelten.
+- Die bundesweite Förderung für Private unterstützt die Anschaffung von Elektro-Transporträdern, Transporträdern, Elektro-Falträdern und Falträdern mit bis zu 400 Euro pro Fahrrad1.
+- Die bundesweite Förderung für Betriebe und Vereine unterstützt die Anschaffung von Elektro-Fahrrädern, Elektro-Transporträdern, Lastenrädern und Falträdern mit bis zu 1.000 Euro pro Fahrrad.
+- Die landesweiten Förderungen variieren je nach Bundesland und können teilweise mit der bundesweiten Förderung kombiniert werden.
+- Die landesweiten Förderungen reichen von 100 Euro pro Fahrrad in Niederösterreich bis zu 1.500 Euro pro Fahrrad in Wien.
+
+
 ## Rechtliche Rahmenbedingungen
 
 In Österreich gelten Lastenfahrräder ohne oder mit Tretunterstützung mit einer Bauartgeschwindigkeit von maximal 25 km/h und einer maximalen Antriebsleistung von 600 Watt als Fahrräder. Das bedeutet, dass für diese Lastenfahrräder dieselben rechtlichen Rahmenbedingungen gelten wie für normale Fahrräder. Radfahrer, die mit einem Lastenfahrrad unterwegs sind, haben somit in der Regel die gleichen Rechte und Pflichten wie andere Radfahrer. 
 
-Allerdings ist es wichtig, sich über die spezifischen Regelungen und Vorschriften für Lastenfahrräder in Österreich zu informieren, um mögliche Bußgelder oder Strafen zu vermeiden. Eine gute Informationsquelle hierfür ist beispielsweise der [ÖAMTC](https://www.oeamtc.at/thema/fahrrad/lastenfahrraeder-verkehrsmittel-fuer-den-alltag-und-guetertransport-27177346 "Österreichischer Automobil-, Motorrad- und Touring Club").
+Allerdings ist es wichtig, sich über die spezifischen Regelungen und Vorschriften für Lastenfahrräder in Österreich zu informieren, um mögliche Bußgelder oder Strafen zu vermeiden. Eine gute Informationsquelle hierfür ist beispielsweise der [ÖAMTC](https://www.oeamtc.at/thema/fahrrad/lastenfahrraeder-verkehrsmittel-fuer-den-alltag-und-guetertransport-27177346 "Österreichischer Automobil-, Motorrad- und Touring Club") oder für diese und alle weiteren Themen rund um's Fahrrad die [Radlobby Vöcklabruck](https://www.radlobby.at/voecklabruck).
 
 ## Praktische Tipps für den Umgang mit einem Lastenfahrrad
 
@@ -69,6 +78,10 @@ Tragen Sie immer einen Helm, wenn Sie Ihr Lastenfahrrad benutzen, und stellen Si
 ### Wartung
 
 Wie bei jedem Fahrrad ist es wichtig, Ihr Lastenfahrrad regelmäßig zu warten und zu pflegen. Überprüfen Sie regelmäßig die Bremsen, die Reifen und die Kette, um sicherzustellen, dass sie in einwandfreiem Zustand sind.
+
+## Radlobby Vöcklabruck
+
+Die [Radlobby Vöcklabruck](https://www.radlobby.at/voecklabruck) setzt sich für eine fahrradfreundliche Stadt ein. Sie organisiert regelmäßig Radtouren, Workshops und Aktionen rund um das Thema Radfahren. Die Radlobby möchte die Lebensqualität in Vöcklabruck verbessern, indem sie mehr Platz und Sicherheit für Radfahrer:innen schafft. Dazu arbeitet sie mit der Stadtverwaltung, anderen Vereinen und Initiativen zusammen. Die Radlobby trifft sich regelmässig im [OKH Vöcklabruck](https://okh.or.at/ "Offenes Kunst- und Kulturhaus Vöcklabruck"). Alle Interessierten sind herzlich willkommen.
 
 ## Fazit
 
