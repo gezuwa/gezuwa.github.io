@@ -14,7 +14,7 @@ Es gibt verschiedene Arten von Lastenfahrrädern, die sich durch ihre Konstrukti
 ### Frontlader
 Frontlader sind Lastenfahrräder, bei denen die Ladefläche vor dem Lenker angebracht ist. Die Ladefläche kann eine Kiste, eine Box oder eine Plattform sein, auf der die Last befestigt wird. Frontlader können je nach Modell und Hersteller Lasten von bis zu 100 kg transportieren. Sie sind wendig und leicht zu manövrieren, da sie einen kleinen Wendekreis haben und der Lenker direkt mit dem Vorderrad verbunden ist. Allerdings können sie aufgrund ihres Schwerpunkts etwas instabil sein, vor allem bei hohen Geschwindigkeiten oder unebenen Untergründen. Frontlader eignen sich besonders für den Transport von kleineren oder leichteren Gütern oder für kurze Strecken in der Stadt.
 
-![Das Lastenfahrrad zu Ostern: Voi praktisch!](/assets/images/easter-cargo-bike.jpg "Das Lastenfahrrad zu Ostern: Voi praktisch!")
+![Das Lastenfahrrad zu Ostern: Voi praktisch!](/assets/images/cem-sagisman-D-jz9TpJ_V4-unsplash.jpg "Das Lastenfahrrad zu Ostern: Voi praktisch!")
 
 ### Hecklader
 
@@ -86,3 +86,5 @@ Die [Radlobby Vöcklabruck](https://www.radlobby.at/voecklabruck) setzt sich fü
 ## Fazit
 
 Wenn Sie ein Lastenfahrrad kaufen möchten, sollten Sie sich über die verschiedenen Arten von Fahrrädern informieren und die wichtigsten Kriterien berücksichtigen, um das passende Modell für Ihre Bedürfnisse zu finden. Es ist auch wichtig, sich über die rechtlichen Rahmenbedingungen zu informieren und praktische Tipps zu befolgen, um Ihr Fahrrad sicher und effektiv zu nutzen. Mit diesen Informationen sind Sie bereit, Ihr Lastenfahrrad zu kaufen und die Vorteile des umweltfreundlichen Transports zu genießen.
+
+Foto von [Cem Sagisman](https://unsplash.com/de/@cems77) auf [Unsplash](https://unsplash.com/de/fotos/D-jz9TpJ_V4)
