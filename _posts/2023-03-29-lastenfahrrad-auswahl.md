@@ -60,7 +60,7 @@ Es gibt [bundesweite und landesweite Förderungen für Transporträder](https://
 
 Laut [Verkehrsclub Österreich (VCÖ)](https://vcoe.at/service/fragen-und-antworten/allgemeine-richtlinien-zum-fahrrad "Allgemeine Richtlinien zum Fahrrad") gelten alle Regeln für Fahrräder auch für Elektrofahrräder. Hat ein Elektrofahrrad einen Motor, der bei einer Geschwindigkeit von mehr als 25 km/h unterstützt und eine Nenndauerleistung von mehr als 600 Watt hat, muss es als Kleinkraftrad angemeldet werden. Außerdem darf man mit einem solchen Elektrofahrrad nicht auf Radwegen oder in Fußgängerzonen fahren.
 
-Allerdings ist es wichtig, sich über die spezifischen Regelungen und Vorschriften für Lastenfahrräder in Österreich zu informieren, um mögliche Bußgelder oder Strafen zu vermeiden. Eine gute Informationsquelle hierfür und alle weiteren Themen rund um's Fahrrad ist die [Radlobby Vöcklabruck](https://www.radlobby.at/voecklabruck).
+Eine gute Informationsquelle für alle weiteren Themen rund um's Fahrrad ist die [Radlobby Vöcklabruck](https://www.radlobby.at/voecklabruck).
 
 ## Praktische Tipps für den Umgang mit einem Lastenfahrrad
 
