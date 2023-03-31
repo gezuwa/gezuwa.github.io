@@ -56,12 +56,11 @@ Es gibt [bundesweite und landesweite Förderungen für Transporträder](https://
 - Die landesweiten Förderungen variieren je nach Bundesland und können teilweise mit der bundesweiten Förderung kombiniert werden.
 - Die landesweiten Förderungen reichen von 100 Euro pro Fahrrad in Niederösterreich bis zu 1.500 Euro pro Fahrrad in Wien.
 
-
 ## Rechtliche Rahmenbedingungen
 
-In Österreich gelten Lastenfahrräder ohne oder mit Tretunterstützung mit einer Bauartgeschwindigkeit von maximal 25 km/h und einer maximalen Antriebsleistung von 600 Watt als Fahrräder. Das bedeutet, dass für diese Lastenfahrräder dieselben rechtlichen Rahmenbedingungen gelten wie für normale Fahrräder. Radfahrer, die mit einem Lastenfahrrad unterwegs sind, haben somit in der Regel die gleichen Rechte und Pflichten wie andere Radfahrer. 
+Laut [Verkehrsclub Österreich (VCÖ)](https://vcoe.at/service/fragen-und-antworten/allgemeine-richtlinien-zum-fahrrad "Allgemeine Richtlinien zum Fahrrad") gelten alle Regeln für Fahrräder auch für Elektrofahrräder. Hat ein Elektrofahrrad einen Motor, der bei einer Geschwindigkeit von mehr als 25 km/h unterstützt und eine Nenndauerleistung von mehr als 600 Watt hat, muss es als Kleinkraftrad angemeldet werden. Außerdem darf man mit einem solchen Elektrofahrrad nicht auf Radwegen oder in Fußgängerzonen fahren.
 
-Allerdings ist es wichtig, sich über die spezifischen Regelungen und Vorschriften für Lastenfahrräder in Österreich zu informieren, um mögliche Bußgelder oder Strafen zu vermeiden. Eine gute Informationsquelle hierfür ist beispielsweise der [ÖAMTC](https://www.oeamtc.at/thema/fahrrad/lastenfahrraeder-verkehrsmittel-fuer-den-alltag-und-guetertransport-27177346 "Österreichischer Automobil-, Motorrad- und Touring Club") oder für diese und alle weiteren Themen rund um's Fahrrad die [Radlobby Vöcklabruck](https://www.radlobby.at/voecklabruck).
+Allerdings ist es wichtig, sich über die spezifischen Regelungen und Vorschriften für Lastenfahrräder in Österreich zu informieren, um mögliche Bußgelder oder Strafen zu vermeiden. Eine gute Informationsquelle hierfür und alle weiteren Themen rund um's Fahrrad ist die [Radlobby Vöcklabruck](https://www.radlobby.at/voecklabruck).
 
 ## Praktische Tipps für den Umgang mit einem Lastenfahrrad
 
