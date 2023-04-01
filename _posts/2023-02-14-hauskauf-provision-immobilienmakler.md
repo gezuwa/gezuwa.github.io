@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Beim Hauskauf: Provision des Immobilienmaklers"
-categories: [Wirtschaft]
+wet-categories: [Wirtschaft]
 ---
 
 # Beim Hauskauf: Provision des Immobilienmaklers

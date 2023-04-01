@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Vielfalt der Wirtschaft: Unternehmen und Arbeitgeber, die Lenzing prägen"
-categories: [Wirtschaft]
+wet-categories: [Wirtschaft]
 ---
 
 # Vielfalt der Wirtschaft: Unternehmen und Arbeitgeber, die Lenzing prägen

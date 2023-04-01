@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "The Magnificent Irrsee: A Jewel in Lenzing's Crown"
-categories: [Freizeit]
+wet-categories: [Freizeit]
 ---
 # The Magnificent Irrsee: A Jewel in Lenzing's Crown
 

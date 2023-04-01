@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "The seven mills of Ager: A historic tour of Upper and Lower Achmann and Pettighofen"
-categories: [Freizeit]
+wet-categories: [Freizeit]
 ---
 
 # The seven mills of Ager: A historic tour of Upper and Lower Achmann and Pettighofen

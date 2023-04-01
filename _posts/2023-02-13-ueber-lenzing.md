@@ -1,7 +1,7 @@
 ---
 layout: default
 title:  "Die Marktgemeinde Lenzing in Oberösterreich: Info und Fakten"
-categories: [Wirtschaft]
+wet-categories: [Wirtschaft]
 ---
 # Die Marktgemeinde Lenzing in Oberösterreich: Info und Fakten
 

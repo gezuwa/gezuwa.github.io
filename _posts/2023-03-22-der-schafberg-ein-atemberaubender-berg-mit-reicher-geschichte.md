@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Der Schafberg: Ein atemberaubender Berg mit reicher Geschichte"
-categories: [Freizeit]
+wet-categories: [Freizeit]
 ---
 
 # Der Schafberg: Ein atemberaubender Berg mit reicher Geschichte

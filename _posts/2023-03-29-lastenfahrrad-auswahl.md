@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Lastenfahrräder: 7 Tipps, wie man das passende Modell findet"
-categories: [Freizeit]
+wet-categories: [Freizeit]
 ---
 
 # Lastenfahrräder: 7 Tipps, wie man das passende Modell findet

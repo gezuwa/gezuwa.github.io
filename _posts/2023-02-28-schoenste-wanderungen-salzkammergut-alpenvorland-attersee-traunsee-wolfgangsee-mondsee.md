@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Entdecke die schönsten Wanderungen im Salzkammergut und Alpenvorland rund um Attersee, Traunsee, Wolfgangsee und Mondsee"
-categories: [Tourismus]
+wet-categories: [Tourismus]
 ---
 
 # Entdecke die schönsten Wanderungen im Salzkammergut und Alpenvorland rund um Attersee, Traunsee, Wolfgangsee und Mondsee
