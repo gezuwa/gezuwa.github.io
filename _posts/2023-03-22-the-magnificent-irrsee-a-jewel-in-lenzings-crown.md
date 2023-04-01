@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "The Magnificent Irrsee: A Jewel in Lenzing's Crown"
-categories: [Reisen und Tourismus, Sport und Freizeit]
+categories: [Freizeit]
 ---
 # The Magnificent Irrsee: A Jewel in Lenzing's Crown
 

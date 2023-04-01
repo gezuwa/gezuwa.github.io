@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Viscosefasern - Eine Einführung in die industrielle Produktion"
-categories: [Wissenschaft und Technologie, Lifestyle und Mode]
+categories: [Technologie]
 ---
 # Viscosefasern - Eine Einführung in die industrielle Produktion
 

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "A Week-Long Itinerary in Lenzing: Exploring the Salzkammergut Region"
-categories: [Reisen und Tourismus, Sport und Freizeit]
+categories: [Freizeit]
 ---
 
 # A Week-Long Itinerary in Lenzing: Exploring the Salzkammergut Region
