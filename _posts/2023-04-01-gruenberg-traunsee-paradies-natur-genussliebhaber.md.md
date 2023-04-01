@@ -13,6 +13,8 @@ Paragleiter, die hier vielfältige Möglichkeiten zur Erholung und zum
 Abenteuer finden. Ob Sie auf der Suche nach Ruhe, Spaß oder Kulinarik
 sind, der Grünberg hat für jeden etwas zu bieten.
 
+![Grünberg am Traunsee: Ein Paradies für Natur- und Genussliebhaber](../assets/images/woman-hiking-gruenberg.jpg "Grünberg am Traunsee: Ein Paradies für Natur- und Genussliebhaber")
+
 ## Mit der Seilbahn zum Gipfel
 
 Der einfachste Weg, den Grünberg zu erreichen, ist
