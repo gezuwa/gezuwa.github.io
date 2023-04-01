@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Der Schafberg: Ein atemberaubender Berg mit reicher Geschichte"
+categories: [Reisen und Tourismus, Sport und Freizeit]
 ---
 
 # Der Schafberg: Ein atemberaubender Berg mit reicher Geschichte

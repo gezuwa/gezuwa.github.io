@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Fasern in der Textilherstellung: Von Baumwolle bis Tencel"
+categories: [Wissenschaft und Technologie, Finanzen und Wirtschaft]
 ---
 
 # Fasern in der Textilherstellung: Von Baumwolle bis Tencel

@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Entdecke das Salzkammergut: Ein Paradies für Naturliebhaber"
+categories: [Reisen und Tourismus, Sport und Freizeit]
 ---
 
 # Entdecke das Salzkammergut: Ein Paradies für Naturliebhaber

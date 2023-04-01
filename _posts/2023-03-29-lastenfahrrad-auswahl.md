@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Lastenfahrräder: 7 Tipps, wie man das passende Modell findet"
+categories: [Sport und Freizeit, Gesundheit und Fitness]
 ---
 
 # Lastenfahrräder: 7 Tipps, wie man das passende Modell findet
