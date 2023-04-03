@@ -1,6 +1,8 @@
+---
 layout: default
 title: "Der zauberhafte Irrsee Rundweg: Natur pur in Oberösterreich"
 wet-categories: [Tourismus]
+---
 
 # Der zauberhafte Irrsee Rundweg: Natur pur in Oberösterreich
 
