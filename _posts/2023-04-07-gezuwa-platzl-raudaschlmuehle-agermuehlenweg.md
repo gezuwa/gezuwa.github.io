@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "TDas GeZuWa-Platzl: Ein einzigartiger Kreis mit Sitzbank zum Verweilen"
+title: "Das GeZuWa-Platzl: Ein einzigartiger Kreis"
 wet-categories: [Freizeit]
 ---
 
