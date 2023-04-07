@@ -6,7 +6,7 @@ wet-categories: [Freizeit]
 
 ### Das GeZuWa-Platzl: Ein einzigartiger Kreis
 
-In unmittelbarer Nähe der Raudaschlmühle liegt das [GeZuWa-Platzl](https://goo.gl/maps/JY1rKsRcUJF74rNz9), ein Rastplatz und Aussichtspunkt mit einem wunderbaren Blick ager-aufwärts Richtung Schörfling. 
+In unmittelbarer Nähe der Raudaschlmühle liegt das [GeZuWa-Platzl](https://goo.gl/maps/JY1rKsRcUJF74rNz9), ein Rastplatz und Aussichtspunkt mit einem wunderbaren Blick Ager-aufwärts Richtung Schörfling. 
 
 Auf dem GeZuWa-Platzl sind einige ausgewählte Kunstwerke zu besichtigen wie etwa ein mit Schmiedeeisen gestaltetes Andreas-Kreuz aus ungeschälten Birkenstämmen, ein Felsdenkmal aus einem Betonsockel mit einem Flößerhaken als Andenken an die Geschichte der Agerflößer und eine Skulptur aus Schmiedestahl, die mit mund-geblasenen Vögeln gestaltet ist.
 
