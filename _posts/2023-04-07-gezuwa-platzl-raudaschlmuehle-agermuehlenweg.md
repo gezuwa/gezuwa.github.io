@@ -6,7 +6,7 @@ wet-categories: [Freizeit]
 
 ### Das GeZuWa-Platzl: Ein einzigartiger Kreis
 
-In unmittelbarer Nähe der Raudaschlmühle liegt das [GeZuWa-Platzl](https://goo.gl/maps/JY1rKsRcUJF74rNz9), ein Rastplatz und Aussichtspunkt mit einem wunderbaren Blick Ager-aufwärts Richtung Schörfling. 
+In unmittelbarer Nähe der Raudaschlmühle liegt das [GeZuWa-Platzl](https://goo.gl/maps/JY1rKsRcUJF74rNz9) auf der Route des [Agermühlenwegs]({% post_url 2023-03-27-seven-mills-ager-historic-tour-upper-lower-achmann-pettighofen %} "The seven mills of Ager: A historic tour of Upper and Lower Achmann and Pettighofen"), ein Rastplatz und Aussichtspunkt mit einem wunderbaren Blick Ager-aufwärts Richtung Schörfling. 
 
 Auf dem GeZuWa-Platzl sind einige ausgewählte Kunstwerke zu besichtigen wie etwa ein mit Schmiedeeisen gestaltetes Andreas-Kreuz aus ungeschälten Birkenstämmen, ein Felsdenkmal auf einem Betonsockel mit einem Flößerhaken als Andenken an die Geschichte der Agerflößer und eine Skulptur aus Schmiedestahl, die von [Schwemmholzkunst Attersee](https://www.schwemmholzkunst-attersee.at/ "Von der Natur geformte Fundstücke zum Unikat veredelt") mit mund-geblasenen Vögeln gestaltet wurde.
 
