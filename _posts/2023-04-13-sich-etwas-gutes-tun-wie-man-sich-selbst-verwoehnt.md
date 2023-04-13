@@ -13,6 +13,8 @@ Einer der wichtigsten Schritte, um sich selbst etwas Gutes zu tun, ist es, sich 
 
 Sich verwöhnen zu lassen kann auch dazu beitragen, dass man sich selbst etwas Gutes tut. Das kann bedeuten, dass man sich eine Massage gönnt oder einen Tag im Spa verbringt. Auch ein Besuch beim Friseur oder eine Maniküre können dazu beitragen, dass man sich wohl und gepflegt fühlt.
 
+![Sich verwöhnen lassen](/assets/images/pexels-anna-tarazevich-6560289.jpg "Sich verwöhnen lassen")
+
 In Lenzing gibt es mehrere Möglichkeiten, um sich verwöhnen zu lassen. Es gibt zum Beispiel die [Massagepraxis Martina Schön](http://www.massageschoen.at/) oder [Heilmassage Wechsler](https://www.heilmassage-wechsler.at/).
 
 ### Entspannungstechniken nutzen
