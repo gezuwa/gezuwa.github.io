@@ -33,7 +33,7 @@ Manchmal kann es auch guttun, etwas Neues auszuprobieren. Das kann bedeuten, das
 
 ### Sich mit Freunden treffen
 
-Sich mit Freunden zu treffen und gemeinsam Zeit zu verbringen kann auch dazu beitragen, dass man sich selbst etwas Gutes tut. Freunde können einem das Gefühl geben, verstanden und unterstützt zu werden. Gemeinsame Aktivitäten wie ein Spaziergang oder ein Essen im Restaurant können dazu beitragen, dass man abschaltet und den Alltag hinter sich lässt.
+Sich mit Freunden zu treffen und gemeinsam Zeit zu verbringen kann auch dazu beitragen, dass man sich selbst etwas Gutes tut. Freunde können einem das Gefühl geben, verstanden und unterstützt zu werden. Gemeinsame Aktivitäten wie ein Spaziergang oder ein Essen im Restaurant können dazu beitragen, dass man abschaltet und den  Alltag hinter sich lässt.
 
 ### Sich gesund ernähren
 
