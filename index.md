@@ -4,6 +4,10 @@
 Der Verein **GeZuWa** ist der Zusammenschluss von Menschen für ein liebenswertes Leben in [Lenzing](https://de.wikipedia.org/wiki/Lenzing).
 --->
 
+**[In einer bewegenden Sitzung am Abend des 24. Mai 2023 hat der Verein „GeZuWa - Gemeinschaft zusammen wachsen” offiziell beschlossen, sein Bestehen zu beenden.]({% post_url 2023-05-25-gezuwa-gemeinschaft-zusammen-wachsen-ein-rueckblick %})**
+
+Die nachstehende Information dient der Bewahrung der Geschichte des Vereins und hat keinen direkten Bezug zur aktuellen Situation.
+
 # Willkommen in Lenzing
 
 **Lenzing** ist eine charmante Marktgemeinde im Bezirk Vöcklabruck im Osten Österreichs, die ein hohes Potenzial für Leben und Arbeit bietet. Die Region ist bekannt für ihre malerischen Landschaften, ihre reiche Geschichte und Kultur sowie ihre lebendige Wirtschaft.
