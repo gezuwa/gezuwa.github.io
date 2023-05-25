@@ -5,7 +5,7 @@ title: "GeZuWa - Gemeinschaft zusammen wachsen: Ein Rückblick auf das Ende eine
 
 # GeZuWa - Gemeinschaft zusammen wachsen: Ein Rückblick auf das Ende einer Ära
 
-In einer bewegenden Sitzung am Abend des 24. Mai 2023 hat der Verein für Dorf- und Stadtentwicklung „GeZuWa - Gemeinschaft zusammen wachsen” offiziell sein Bestehen beendet. 
+In einer bewegenden Sitzung am Abend des 23. Mai 2023 hat der Verein für Dorf- und Stadtentwicklung „GeZuWa - Gemeinschaft zusammen wachsen” offiziell sein Bestehen beendet. 
 
 ![Sitzung im Grünen](../assets/images/sitzung-im-gruenen.jpg "Sitzung im Grünen")
 
