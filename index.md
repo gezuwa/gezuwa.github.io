@@ -4,7 +4,11 @@
 Der Verein **GeZuWa** ist der Zusammenschluss von Menschen für ein liebenswertes Leben in [Lenzing](https://de.wikipedia.org/wiki/Lenzing).
 --->
 
+<div class="rip">
+
 **[In einer bewegenden Sitzung am Abend des 24. Mai 2023 hat der Verein „GeZuWa - Gemeinschaft zusammen wachsen” offiziell beschlossen, sein Bestehen zu beenden.]({% post_url 2023-05-25-gezuwa-gemeinschaft-zusammen-wachsen-ein-rueckblick %})**
+
+</div>
 
 Die nachstehende Information dient der Bewahrung der Geschichte des Vereins und hat keinen direkten Bezug zur aktuellen Situation.
 
