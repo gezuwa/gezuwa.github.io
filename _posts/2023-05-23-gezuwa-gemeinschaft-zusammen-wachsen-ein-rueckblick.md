@@ -25,7 +25,7 @@ Der Verein GeZuWa hinterlässt der Gemeinde Lenzing ein Vermächtnis voller Akti
 
 Im Rahmen des Ferienspasses der Marktgemeinde Lenzing organisierte GeZuWa im Jahr 2018 die Veranstaltung [„AgerLympics”](https://www.facebook.com/gezuwa/posts/pfbid0322g5VbXCbBDLi5B1Mcgbrht9Whge5pt8Tkxf2wDz7scN4uzPE2XM5zW7qzKxJgBDl). Bei diesem Event bewiesen viele motivierte Kinder auf der Agerinsel ihre Geschicklichkeit und Ausdauer bei verschiedenen Teambewerben. Die AgerLympics waren ein großer Erfolg und trugen maßgeblich zur Förderung des Teamgeists und der sportlichen Aktivitäten der Kinder bei.
 
-## GeZuWa-Platzl - Ein Ort der Ruhe und Meditation
+### GeZuWa-Platzl - Ein Ort der Ruhe und Meditation
 
 Im Jahr 2019 wurde das [GeZuWa-Platzl](https://www.facebook.com/gezuwa/photos/a.585305558890027/585337658886817/) errichtet, ein öffentlich zugänglicher Tiny Park nahe der Ager und der Raudaschlmühle. Der Park dient als ein erlebenswerter Ruhe- und Meditationspunkt entlang des Agermühlen-Weges. Hier können die Menschen abschalten, die Natur genießen und neue Energie tanken. Das GeZuWa-Platzl wurde zu einem beliebten Ort für Einheimische und Besucher gleichermaßen.
 
