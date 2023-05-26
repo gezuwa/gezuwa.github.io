@@ -8,7 +8,6 @@ wet-categories: [Freizeit]
 
 The River Ager in Upper Austria was once a thriving centre of milling activity. Along a short two-kilometre stretch of the river in the towns of Upper and Lower Achmann and Pettighofen, seven mills supplied flour and bread not only to the local population but also to neighbouring villages. Let's take a tour of these historic mills, starting with the "Mühle in der Au" or "Papiermühle" in Unterachmann.
 
-easter-cargo-bike.jpg
 ## Mühle in der Au or Papiermühle
 
 Located in the lower part of the Upper Ager in Unterachmann, the Mühle in der Au was originally a "hadern" mill, producing paper from textile scraps. The Peyr family owned the mill from 1690 to 1877, when Anton Peyr, the first mayor of Seewalchen, closed the mill and sold the property. Emil Hamburger bought the Aumühle in 1894 and in 1896 established the second paper mill on the Ager, the Pettighofen paper factory.

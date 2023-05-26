@@ -8,9 +8,9 @@ wet-categories: [Freizeit]
 
 In unmittelbarer Nähe der Raudaschlmühle befindet sich das [GeZuWa-Platzl](https://goo.gl/maps/JY1rKsRcUJF74rNz9) am [Agermühlenweg]({% post_url 2023-03-27-seven-mills-ager-historic-tour-upper-lower-achmann-pettighofen %} "The seven mills of Ager: A historic tour of Upper and Lower Achmann and Pettighofen"), ein Rastplatz und Aussichtspunkt mit herrlichem Blick die Ager aufwärts Richtung Schörfling.
 
-Auf dem GeZuWa-Platzl sind einige ausgewählte Kunstwerke zu besichtigen wie etwa ein mit Schmiedeeisen gestaltetes Andreas-Kreuz aus ungeschälten Birkenstämmen, ein Felsdenkmal auf einem Betonsockel mit einem Flößerhaken als Andenken an die Geschichte der Agerflößer und eine Skulptur aus Schmiedestahl, die von [Schwemmholzkunst Attersee](https://www.schwemmholzkunst-attersee.at/ "Von der Natur geformte Fundstücke zum Unikat veredelt") mit mund-geblasenen Vögeln gestaltet wurde.
+Auf dem GeZuWa-Platzl sind einige ausgewählte Kunstwerke zu besichtigen wie etwa ein mit Schmiedeeisen gestaltetes Andreas-Kreuz aus ungeschälten Birkenstämmen, ein Felsdenkmal auf einem Betonsockel mit einem Flößerhaken als Andenken an die Geschichte der Agerflößer und eine Skulptur aus Schmiedestahl, die mit mund-geblasenen Vögeln gestaltet wurde.
 
-![GeZuWa-Platzl in Lenzing](/assets/images/gezuwa-platzl.jpg "GeZuWa-Platzl in Lenzing")
+![GeZuWa-Platzl in Lenzing](../assets/images/gezuwa-platzl.jpg "GeZuWa-Platzl in Lenzing")
 
 Das GeZuWa-Platzl beeindruckt mit seiner einzigartigen kreisförmigen Gestaltung, die von der renommierten [Gartenarchitektin Barbara Anna Derflinger aus Lenzing](https://www.instagram.com/das_schoene_leben_im_garten/) konzipiert wurde.
 Der Platz selbst ist in Form eines großen Kreises angelegt und lädt Besucher dazu ein, sich inmitten der Kunstwerke und der Natur zu bewegen und die Atmosphäre zu genießen. 
