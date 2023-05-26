@@ -44,7 +44,7 @@ Mehr über unsere Gemeinschaft erfährst du in der [GeZuWa-Vorstellung](GeZuWa-V
 
 Möchtest du bei unserer Gemeinschaft mitmachen? Komm doch einfach zu einem unserer Treffen und sei dabei! 
 
-Wir treffen uns rund ein Mal im Monat an abwechselnden Orten in Lenzing. Ort und Termin des nächsten Treffens findest du auf [unserer Facebook-Seite](https://www.facebook.com/pg/gezuwa/events/). Nach unseren Treffen könntest du wegen der damit verbundenen Gaumenfreuden [Tipps zum richtigen Abnehmen](https://abnehmtipps.at/tipp/richtig-abnehmen-grundregeln) brauchen - sei gewarnt 😉  
+Wir treffen uns rund ein Mal im Monat an abwechselnden Orten in Lenzing. Ort und Termin des nächsten Treffens findest du auf [unserer Facebook-Seite](https://www.facebook.com/pg/gezuwa/events/).
 
 ## Aktuell<a name="aktuell"></a>
 
