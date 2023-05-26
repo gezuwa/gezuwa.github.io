@@ -27,9 +27,13 @@ Im Rahmen des Ferienspasses der Marktgemeinde Lenzing organisierte GeZuWa im Jah
 
 ### GeZuWa-Platzl - Ein Ort der Ruhe und Meditation
 
+![GeZuWa-Platzl in Lenzing](../assets/images/gezuwa-platzl.jpg "GeZuWa-Platzl in Lenzing")
+
 Im Jahr 2019 wurde das [GeZuWa-Platzl]({% post_url 2023-04-07-gezuwa-platzl-raudaschlmuehle-agermuehlenweg %} "Das GeZuWa-Platzl: Ein einzigartiger Kreis") errichtet, ein öffentlich zugänglicher Tiny Park nahe der Ager und der Raudaschlmühle. Der Park dient als ein erlebenswerter Ruhe- und Meditationspunkt entlang des Agermühlen-Weges. Hier können die Menschen abschalten, die Natur genießen und neue Energie tanken. Das GeZuWa-Platzl wurde zu einem beliebten Ort für Einheimische und Besucher gleichermaßen.
 
 ### GeZuWa-Park - Die Wiederbelebung eines vergessenen Juwels
+
+![GeZuWa-Park in Lenzing](../assets/images/gezuwa-park.jpg "GeZuWa-Park in Lenzing")
 
 Der [GeZuWa-Park im Ortskern von Lenzing](https://goo.gl/maps/jKGJoMfmEQ51pTEcA?coh=178573&entry=tt) nahe dem Friseursalon HaarDesign Dagmar & Roswitha Haas wurde zu einem besonderen Anziehungspunkt. 
 
