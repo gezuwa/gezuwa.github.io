@@ -7,7 +7,7 @@ title: "GeZuWa - Gemeinschaft zusammen wachsen: Ein Rückblick auf das Ende eine
 
 In einer bewegenden Sitzung am Abend des 23. Mai 2023 hat der Verein für Dorf- und Stadtentwicklung „GeZuWa - Gemeinschaft zusammen wachsen” offiziell sein Bestehen beendet. 
 
-![Abschluss-Sitzung des Vereins GeZuWa: Astrid Ehrnleitner, Julia Laganda, Armin Avdibegovic, Ramona Gabriela Gallikova, Max Ratzenböck, Ján Gallik (v.l.n.r.)](../assets/images/portraits-abschluss-sitzung.jpg "Abschluss-Sitzung des Vereins GeZuWa: Astrid Ehrnleitner, Julia Laganda, Armin Avdibegovic, Ramona Gabriela Gallikova, Max Ratzenböck, Ján Gallik (v.l.n.r.")
+![Abschluss-Sitzung des Vereins GeZuWa: Astrid Ehrnleitner, Julia Laganda, Armin Avdibegovic, Ramona Gabriela Gallikova, Max Ratzenböck, Ján Gallik (v.l.n.r.)](../assets/images/portraits-abschluss-sitzung.jpg "Abschluss-Sitzung des Vereins GeZuWa: Astrid Ehrnleitner, Julia Laganda, Armin Avdibegovic, Ramona Gabriela Gallikova, Max Ratzenböck, Ján Gallik v.l.n.r.")
 
 Seit dem Jahr 2017 hatte der Verein zahlreiche Aktivitäten entfaltet, um das Gemeinschaftsleben in Lenzing zu stärken und die Menschen zu motivieren, sich im Gemeindeleben einzubringen. Mit dem Ende von GeZuWa geht eine Ära zu Ende, die in der Geschichte Lenzings einen bedeutenden Fußabdruck hinterlässt.
 
