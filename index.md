@@ -76,7 +76,7 @@ Sommerfeldstraße 19/2
 4860 Lenzing  
 Österreich
 
-Web: [www.gezuwa.at](https://www.gezuwa.at/)   
+Web: [www.gezuwa.at](https://web.archive.org/web/20230708205423/https://www.gezuwa.at/)   
 
 ZVR: 1764273881  
 [Vereinsstatuten](Vereinsstatuten-GeZuWa_2017.pdf) | [Datenschutzerklärung](/legalese/)
