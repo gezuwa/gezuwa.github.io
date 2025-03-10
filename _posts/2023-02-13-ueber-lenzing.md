@@ -7,7 +7,7 @@ wet-categories: [Wirtschaft]
 
 Lenzing ist eine Marktgemeinde in Oberösterreich, im Bezirk Vöcklabruck und Gerichtsbezirk Vöcklabruck gelegen. 
 
-![Im Stil von Friedensreich Regentag Hundertwasser: Der Industrieort Lenzing in Österreich &copy; Stable Diffusion](/assets/images/industrieort-lenzing.jpg "Im Stil von Friedensreich Regentag Hundertwasser: Der Industrieort Lenzing in Österreich &copy; Stable Diffusion")
+![Im Stil von Friedensreich Regentag Hundertwasser: Der Industrieort Lenzing in Österreich &copy; Stable Diffusion](../assets/images/industrieort-lenzing.jpg "Im Stil von Friedensreich Regentag Hundertwasser: Der Industrieort Lenzing in Österreich &copy; Stable Diffusion")
 
 ## Zahlen und Fakten
 

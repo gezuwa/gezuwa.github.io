@@ -8,7 +8,7 @@ wet-categories: [Tourismus]
 
 Der Irrsee in Oberösterreich ist nicht nur ein beliebtes Ziel für Badegäste im Sommer, sondern auch für Wanderer und Naturbegeisterte. Der [Irrsee Rundweg](https://www.bergfex.at/sommer/oberoesterreich/touren/wanderung/957263,irrsee-rundweg/) bietet eine wunderschöne Möglichkeit, die Umgebung des Sees zu erkunden und dabei die Natur hautnah zu erleben. In diesem Artikel erfährst du alles Wissenswerte über den Irrsee Rundweg, seine Besonderheiten und die besten Tipps für deine Wanderung.
 
-![Der zauberhafte Irrsee Rundweg: Natur pur in Oberösterreich](/assets/images/einsame-buche-symbol.jpg "Der zauberhafte Irrsee Rundweg: Natur pur in Oberösterreich")
+![Der zauberhafte Irrsee Rundweg: Natur pur in Oberösterreich](../assets/images/einsame-buche-symbol.jpg "Der zauberhafte Irrsee Rundweg: Natur pur in Oberösterreich")
 
 ## Der Wegverlauf
 
