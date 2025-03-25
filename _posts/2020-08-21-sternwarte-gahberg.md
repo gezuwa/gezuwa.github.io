@@ -11,7 +11,7 @@ Tatsächlich: Die [Sternwarte Gahberg](https://astronomie.at/ "Astronomischer Ar
 
 ![Sternwarte Gahberg](../assets/images/sternwarte-gahberg-1.jpg "Sternwarte Gahberg")
 
-Das und noch viel mehr haben wir von Erwin Filimon und seinen Vereinskolleg*innen erfahren. Erwin ist der Obmann des [Astronomischen Arbeitskreises Salzkammergut](https://www.astronomie.at/) (und GeZuWa-Mitglied 😉)
+Das und noch viel mehr haben wir von Erwin Filimon und seinen Vereinskolleg:innen erfahren. Erwin ist [der Obmensch des Astronomischen Arbeitskreises Salzkammergut](https://astronomie.at/team/erwin-filimon/ "Erwin Filimon - Astronomischer Arbeitskreis Salzkammergut") (und GeZuWa-Mitglied 😉)
 
 Fünfzig und mehr Stunden braucht Günter Kerschhuber zum Beispiel, bis [ein solches Foto](https://astro-photo.at/index.html/Nebula/index.html#img=Sh2-134%20LBN489%20LBN491.jpg "Nebula") fertig ist:
 
