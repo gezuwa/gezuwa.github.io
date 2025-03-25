@@ -1,11 +1,11 @@
 ---
 layout: default
-title:  "Die Marktgemeinde Lenzing in Oberösterreich: Info und Fakten"
+title:  "Die Stadtgemeinde Lenzing in Oberösterreich: Info und Fakten"
 wet-categories: [Wirtschaft]
 ---
-# Die Marktgemeinde Lenzing in Oberösterreich: Info und Fakten
+# Die Stadtgemeinde Lenzing an der Ager in Oberösterreich: Info und Fakten
 
-Lenzing ist eine Marktgemeinde in Oberösterreich, im Bezirk Vöcklabruck und Gerichtsbezirk Vöcklabruck gelegen. 
+Lenzing an der Ager ist eine Stadtgemeinde in Oberösterreich, im Bezirk Vöcklabruck und Gerichtsbezirk Vöcklabruck gelegen. 
 
 ![Im Stil von Friedensreich Regentag Hundertwasser: Der Industrieort Lenzing in Österreich &copy; Stable Diffusion](../assets/images/industrieort-lenzing.jpg "Im Stil von Friedensreich Regentag Hundertwasser: Der Industrieort Lenzing in Österreich &copy; Stable Diffusion")
 
