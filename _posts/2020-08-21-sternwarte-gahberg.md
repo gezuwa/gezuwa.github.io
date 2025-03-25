@@ -6,7 +6,7 @@ wet-categories: [Freizeit]
 
 Wusstest du, dass es eine Sternwarte auf Lenzinger Boden gibt?
 
-Tatsächlich: Die Sternwarte Gahberg steht auf einem Grundstück, das die Gemeinde Lenzing damals® für den Bau eines Kinder-Erholungsheims kaufte.
+Tatsächlich: Die [Sternwarte Gahberg](https://astronomie.at/ "Astronomischer Arbeitskreis Salzkammergut - Sternwarte Gahberg") steht auf einem Grundstück, das die Gemeinde Lenzing damals® für den Bau eines Kinder-Erholungsheims kaufte.
 
 ![Sternwarte Gahberg](../assets/images/sternwarte-gahberg-0.jpg "Sternwarte Gahberg")
 
